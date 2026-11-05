@@ -1,0 +1,1 @@
+PASS: actual Otjikoto detector run, AMOC/MBIC, 100 uncertainty and 100 null simulations, 100-year summaries.

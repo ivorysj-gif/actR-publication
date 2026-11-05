@@ -1,0 +1,15 @@
+"file","pass"
+"check_environment.R",TRUE
+"config.R",TRUE
+"figs_2026.R",TRUE
+"final_maps.R",TRUE
+"install_dependencies.R",TRUE
+"prepare_map_background.R",TRUE
+"run.R",TRUE
+"site_fig26.R",TRUE
+"spat_sign26.R",TRUE
+"step1_download_age_models.R",TRUE
+"step2_harmonize.R",TRUE
+"step3_full_workflow.R",TRUE
+"step4_full_workflow_synth.R",TRUE
+"helpers.R",TRUE
