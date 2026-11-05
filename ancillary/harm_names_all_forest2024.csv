@@ -1,0 +1,1038 @@
+﻿source,record,real_names,variablename,v_family,v_code,temp_trees,forest,savanna/steppe,desert,grass
+p,9,Adenia,Adenia,Passifloraceae,,0,1,0,0,0
+p,10,Aerva-type,Aerva,Amaranthaceae,,0,0,1,0,0
+p,13,Aidia-type,Aidia-type,Rubiaceae,,0,1,0,0,0
+p,14,Ajuga,Ajuga,Lamiaceae,,0,1,1,0,0
+p,17,Alstonia-type,Alstonia-type,Apocynaceae,,0,1,0,0,0
+p,18,Alstonia-type boonei,Alstonia-type boonei,Apocynaceae,,0,1,0,0,0
+p,19,Alternanthera,Althernanthera,Amaranthaceae,,0,1,0,0,0
+p,23,Ambrosia-type maritima,Ambrosia-type maritima,Compositae,,0,0,1,0,0
+p,28,Anopyxis klaineana,Anopyxis klaineana,Rhizophoraceae,,0,1,0,0,0
+p,31,Anthostema-type,Anthostema-type,Euphorbiaceae,,0,1,0,0,0
+p,32,Antiaris-type toxicaria,Antiaris-type toxicaria,Moraceae,,0,1,0,0,0
+p,33,Antidesma-type venosum,Antidesma venosum,Phyllanthaceae,,0,0,0,0,0
+p,34,Antrocaryon-type,Antrocaryon-type,Anacardiaceae,,0,1,0,0,0
+p,36,Aporrhiza,Aporrhiza,Sapindaceae,,0,1,0,0,0
+p,37,Araliaceae undiff.,Araliaceae,Araliaceae,,0,1,1,0,0
+p,44,Asclepiadaceae undiff.,Asclepiadaceae_undiff.,Apocynaceae,,0,1,1,1,0
+p,48,Atriplex-type,Atriplex,Amaranthaceae,,0,0,1,1,0
+p,49,Avicennia,Avicennia,Acanthaceae,,0,0,0,0,0
+p,51,Baikiaea,Baikiaea,Leguminosae,,0,1,1,0,0
+p,52,Baphia-type,Baphia-type,Leguminosae,,0,1,0,0,0
+p,187,Englerophytum-type,Bequaertiodendron,Sapotaceae,,0,1,0,0,0
+p,57,Betula,Betula,Betulaceae,,1,1,0,0,0
+p,63,Blighia,Blighia,Sapindaceae,,0,1,1,0,0
+p,64,Bombax-type costatum,Bombax costatum,Malvaceae,,0,1,1,0,0
+p,65,Boraginaceae undiff.,Boraginaceae undiff.,Boraginaceae,,0,1,1,0,0
+p,66,Borassus/Hyphaene,Borassus/Hyphaene,Arecaceae,,0,0,1,0,0
+p,68,Brachylaena-type,Brachylaena,Compositae,,0,1,0,0,0
+p,69,Bridelia-type,Bridelia,Phyllanthaceae,,0,1,0,0,0
+p,70,Bridelia ferruginea-type,Bridelia ferruginea-type,Phyllanthaceae,,0,0,0,0,0
+p,71,Brucea,Brucea,Simaroubaceae,,0,1,0,0,0
+p,73,Bruniaceae undiff.,Bruniaceae,Bruniaceae,,0,0,0,0,0
+p,75,Burkea africana,Burkea,Leguminosae,,0,1,1,0,0
+p,78,Calligonum polygonoides,Calligonum,Polygonaceae,,0,0,1,1,0
+p,373,Oncoba-type,Caloncoba,Achariaceae,,0,1,1,0,0
+p,77,Cadaba-type,Caloncoba-type,Achariaceae,,0,1,1,0,0
+p,80,Calpocalyx-type,Calpocalyx,Leguminosae,,0,1,0,0,0
+p,81,Calpocalyx-type klainei,Calpocalyx klainei,Leguminosae,,0,0,0,0,0
+p,82,Calpocalyx-type letestui,Calpocalyx-type letestui,Leguminosae,,0,1,0,0,0
+p,83,Campanulaceae undiff.,Campanulaceae,Campanulaceae,,0,1,1,0,0
+p,84,Campylospermum,Campylospermum,Ochnaceae,,0,1,0,0,0
+p,85,Canarium-type,Canarium-type,Burseraceae,,0,1,0,0,0
+p,88,Capparis,Capparis,Capparaceae,,0,1,1,1,0
+p,90,Carapa-type procera,Carapa-type procera,Meliaceae,,0,1,0,0,0
+p,92,Cardiospermum,Cardiospermum,Sapindaceae,,0,0,0,0,0
+p,95,Cassia-type,Cassia,Leguminosae,,0,0,1,0,0
+p,98,Cassipourea,Cassipourea ,Rhizophoraceae,,0,1,1,0,0
+p,110,Chaetacme aristata,Chaetachme aristata,Ulmaceae,,0,1,0,0,0
+p,112,Chlorophytum-type,Chlorophytum ,Asparagaceae,,0,1,1,0,0
+p,113,Chrozophora,Chrozophora,Euphorbiaceae,,0,0,0,1,0
+p,114,Chrozophora brocchiana-type,Chrozophora brocchiana,Euphorbiaceae,,0,0,1,1,0
+p,116,Chrysobalanus-type icaco,Chrysobalanus-type icaco,Chrysobalanaceae,,0,1,0,0,0
+p,118,Cissampelos-type,Cissampelos ,Menispermaceae,,0,1,1,0,0
+p,119,Cleistanthus-type,Cleistanthus,Phyllanthaceae,,0,1,0,0,0
+p,122,Cleome-type,Cleome,Cleomaceae,,0,1,1,1,0
+p,123,Cliffortia,Cliffortia,Rosaceae,,0,0,0,0,0
+p,124,Clusiaceae undiff.,Clusiaceae,Clusiaceae,,0,1,1,0,0
+p,126,Cocculus,Cocculus,Menispermaceae,,0,0,1,1,0
+p,127,Cochlospermum,Cochlospermum,Bixaceae,,0,0,0,0,0
+p,128,Coffea,Coffea,Rubiaceae,,0,1,0,0,0
+p,129,Cola cordifolia-type,Cola cordifolia-type,Malvaceae,,0,1,0,0,0
+p,133,Connaraceae undiff.,Connaraceae,Connaraceae,,0,1,1,0,0
+p,136,Cordia,Cordia,Boraginaceae,,0,1,1,0,0
+p,137,Cordia platythyrsa-type,Cordia platythyrsa-type,Boraginaceae,,0,1,0,0,0
+p,142,Coula edulis,Coula edulis,Olacaceae,,0,1,0,0,0
+p,144,Crassulaceae undiff.,Crassulaceae,Crassulaceae,,0,0,1,1,0
+p,146,Crudia-type gabonensis,Crudia-type gabonensis,Leguminosae,,0,1,0,0,0
+p,148,Cupressaceae undiff.,Cupressaceae,Cupressaceae,,0,0,0,0,0
+p,151,Cyathula-type,Cyathula-type,Amaranthaceae,,0,0,0,0,0
+p,155,Cyperaceae undiff.,Cyperaceae,Cyperaceae,,0,1,1,1,0
+p,158,Dacryodes-type,Dacryodes,Burseraceae,,0,1,0,0,0
+p,159,Dendrosenecio-type,Dendrosenecio,Compositae,,0,0,1,0,0
+p,160,Detarium,Detarium,Leguminosae,,0,0,1,0,0
+p,161,Dialium,Dialium,Leguminosae,,0,1,1,0,0
+p,162,Dichrostachys,Dichrostachys ,Leguminosae,,0,1,1,0,0
+p,554,Undetermined,Digeria,,,0,0,1,0,0
+p,166,Dioscorea,Dioscorea,Dioscoreaceae,,0,1,1,0,0
+p,172,Dorstenia-type,Dorstenia-type,Moraceae,,0,0,0,0,0
+p,173,Dracaena,Dracaena,Asparagaceae,,0,1,1,0,0
+p,176,Drypetes-type,Drypetes-type,Putranjivaceae,,0,1,0,0,0
+p,179,Ekebergia-type,Ekebergia,Meliaceae,,0,1,0,0,0
+p,180,Elaeis guineensis,Elaeis guineensis,Arecaceae,,0,1,0,0,0
+p,183,Elaeophorbia-type,Elaeophorbia-type,Euphorbiaceae,,0,1,0,0,0
+p,188,Entandrophragma-type,Entandrophragma-type,Meliaceae,,0,1,0,0,0
+p,189,Ephedra,Ephedra,Ephedraceae,,0,0,0,1,0
+p,192,Ephippiandra,Ephippiandra,Monimiaceae,,0,1,0,0,0
+p,198,Eriocaulaceae undiff.,Eriocaulaceae,Eriocaulaceae,,0,1,0,0,0
+p,200,Eriocoelum macrocarpum-type,Eriocoelum macrocarpum,Sapindaceae,,0,0,0,0,0
+p,202,Erythrina,Erythrina,Leguminosae,,0,1,1,0,0
+p,205,Eugenia/Syzygium,Eugenia/Syzygium ,Myrtaceae,,0,1,1,0,0
+p,206,Euphorbia-type hirta,Euphorbia hirta,Euphorbiaceae,,0,1,0,0,0
+p,209,Fagonia,Fagonia,Zygophyllaceae,,0,0,1,1,0
+p,210,Faidherbia albida,Faidherbia albida,Leguminosae,,0,1,1,0,0
+p,213,Ficalhoa-type laurifolia,Ficalhoa,Sladeniaceae,,0,1,0,0,0
+p,335,Monoletes undiff.,Filicinae isosporae,,,0,1,0,0,0
+p,214,Flueggea,Flueggea,Phyllanthaceae,,0,1,1,0,0
+p,216,Fraxinus,Fraxinus,Oleaceae,,1,1,0,0,0
+p,219,Gaertnera,Gaertnera,Rubiaceae,,0,1,0,0,0
+p,220,Gaertnera paniculata-type,Gaertnera paniculata,Rubiaceae,,0,0,0,0,0
+p,223,Ganophyllum-type giganteum,Ganophyllum-type giganteum,Sapindaceae,,0,1,0,0,0
+p,224,Gardenia-type,Gardenia ,Rubiaceae,,0,1,1,0,0
+p,226,Gentianaceae undiff.,Gentianaceae,Gentianaceae,,0,1,1,0,0
+p,227,Geraniaceae undiff.,Geraniaceae,Geraniaceae,,0,0,1,1,0
+p,231,Gnidia-type,Gnidia,Thymelaeaceae,,0,1,0,0,0
+p,232,Guibourtia demeusei-type,Guibourtia demeusii,Leguminosae,,0,1,0,0,0
+p,237,Helichrysum-type,Helichrysum,Compositae,,0,0,0,0,0
+p,238,Heliotropium,Heliotropium ,Boraginaceae,,0,1,1,1,0
+p,239,Heliotropium strigosum-type,Heliotropium strigosum,Boraginaceae,,0,0,0,1,0
+p,304,Lycopodium-type,Huperzia,Lycopodiaceae,,0,1,0,0,0
+p,243,Hygrophila,Hygrophila,Acanthaceae,,0,1,0,0,0
+p,244,Hymenocardia,Hymenocardia,Phyllanthaceae,,0,1,0,0,0
+p,247,Hymenostegia-type pellegrinii,Hymenostegia pellegrini,Leguminosae,,0,1,0,0,0
+p,249,Icacinaceae undiff.,Icacinaceae undiff.,Icacinaceae,,0,1,0,0,0
+p,252,Iodes,Iodes,Icacinaceae,,0,1,0,0,0
+p,255,Irvingia-type gabonensis,Irvingia gabonensis,Irvingiaceae,,0,1,0,0,0
+p,258,Ixora-type,Ixora,Rubiaceae,,0,1,0,0,0
+p,260,Julbernardia-type,Julbernardia,Leguminosae,,0,1,0,0,0
+p,265,Justicia-type,Justicia,Acanthaceae,,0,0,1,0,0
+p,268,Khaya-type,Khaya-type,Meliaceae,,0,1,0,0,0
+p,270,Kiggelaria africana,Kiggelaria,Achariaceae,,0,1,0,0,0
+p,272,Klaineanthus gaboniae,Klaineanthus gaboniae,Euphorbiaceae,,0,1,0,0,0
+p,273,Kohautia,Kohautia,Rubiaceae,,0,0,1,0,0
+p,275,Landolphia-type,Landolphia-type,Apocynaceae,,0,0,0,0,0
+p,276,Lannea/Sclerocarya,Lannea/Sclerocarya ,Anacardiaceae,,0,1,1,0,0
+p,282,Laurembergia tetrandra,Laurembergia tetrandra,Haloragaceae,,0,1,0,0,0
+p,284,Lecaniodiscus-type cupanioides,Lecaniodiscus cupanioides,Sapindaceae,,0,0,0,0,0
+p,285,Liliaceae undiff.,Liliaceae,Liliaceae,,0,0,1,1,0
+p,286,Limnophyton-type,Limnophyton,Alismataceae,,0,1,0,0,0
+p,292,Lobelia,Lobelia,Campanulaceae,,0,0,1,0,0
+p,293,Loesenera-type,Loesenera,Leguminosae,,0,1,0,0,0
+p,294,Lonchocarpus,Lonchocarpus ,Leguminosae,,0,1,1,1,0
+p,295,Lophira,Lophira,Ochnaceae,,0,1,0,0,0
+p,296,Lophira alata-type,Lophira alata-type,Ochnaceae,,0,1,0,0,0
+p,298,Lotus,Lotus,Leguminosae,,0,0,1,1,0
+p,301,Luffa-type,Luffa-type,Cucurbitaceae,,0,0,0,0,0
+p,307,Lygodium microphyllum,Lygodium microphyllum,Lygodiaceae,,0,1,0,0,0
+p,310,Macaranga-type capensis,Macaranga capensis,Euphorbiaceae,,0,0,0,0,0
+p,311,Maesa,Maesa,Primulaceae,,0,1,1,0,0
+p,313,Mallotus-type oppositifolius,Mallotus-type oppositifolius,Euphorbiaceae,,0,1,0,0,0
+p,317,Maranthes-type,Maranthes-type,Chrysobalanaceae,,0,1,0,0,0
+p,319,Martretia quadricornis,Martretia quadricornis,Phyllanthaceae,,0,1,0,0,0
+p,322,Menispermaceae undiff.,Menispermaceae,Menispermaceae,,0,1,0,0,0
+p,324,Microdesmis,Microdesmi,Pandaceae,,0,1,0,0,0
+p,326,Mimosa pigra-type,Mimosa pigra,Leguminosae,,0,1,0,0,0
+p,327,Mimusops-type,Mimusops,Sapotaceae,,0,1,1,0,0
+p,328,Mitracarpus hirtus,Mitracarpus hirtus,Rubiaceae,,0,1,1,0,0
+p,333,Moltkiopsis ciliata,Moltkiopsis ciliata,Boraginaceae,,0,0,1,1,0
+p,341,Morelia senegalensis,Morelia senegalensis,Rubiaceae,,0,1,0,0,0
+p,345,Musanga/Myrianthus,Musanga/Myrianthus ,Urticaceae,,0,1,0,0,0
+p,346,Mussaenda,Mussaenda,Rubiaceae,,0,1,0,0,0
+p,349,Myrianthus-type arboreus,Myrianthus-type arboreus,Urticaceae,,0,1,0,0,0
+p,351,Myrsinaceae undiff.,Myrsinaceae,Primulaceae,,0,1,1,0,0
+p,318,Markhamia,Newbouldia ,Bignoniaceae,,0,1,1,0,0
+p,356,Nuxia-type,Nuxia,Stilbaceae,,0,1,1,0,0
+p,360,Nymphaea lotus-type,Nymphaea lotus,Nymphaeaceae,,0,0,0,0,0
+p,365,Olacaceae undiff.,Olacaceae,Olacaceae,,0,1,0,0,0
+p,366,Olea,Olea,Oleaceae,,0,1,0,0,0
+p,367,Olea capensis-type ssp. hochstetteri,Olea capensis-type ssp. hochstetteri,Oleaceae,,0,0,0,0,0
+p,370,Oleaceae undiff.,Oleaceae,Oleaceae,,0,1,0,0,0
+p,372,Onagraceae undiff.,Onagraceae,Onagraceae,,0,0,1,1,0
+p,38,Arecaceae undiff.,Palmae,Arecaceae,,0,1,1,1,0
+p,389,Passerina montana,Passerina,Thymelaeaceae,,0,1,1,0,0
+p,391,Pausinystalia-type macroceras,Pausinystalia macroeceras,Rubiaceae,,0,1,0,0,0
+p,392,Pavetta,Pavetta,Rubiaceae,,0,1,1,0,0
+p,395,Pellaea,Pellaea,Pteridaceae,,0,0,0,0,0
+p,397,Pentaclethra-type eetveldeana,Penthaclethra eetveldeana,Leguminosae,,0,1,0,0,0
+p,398,Pentaclethra macrophylla,Penthaclethra macrophylla,Leguminosae,,0,1,0,0,0
+p,400,Pentzia,Pentzia,Compositae,,0,0,1,0,0
+p,405,Phoenix,Phoenix ,Arecaceae,,0,1,0,1,0
+p,410,Phyllanthus-type maderaspatensis,Phyllanthus maderaspatensis,Phyllanthaceae,,0,0,0,0,0
+p,411,Phyllanthus-type nummulariifolius,Phyllanthus nummulariifolius,Phyllanthaceae,,0,0,0,0,0
+p,407,Phyllanthus-type,Phyllanthus-type,Phyllanthaceae,,0,1,1,0,0
+p,412,Phytolacca,Phytolacca,Phytolaccaceae,,0,1,1,0,0
+p,414,Piliostigma,Piliostigma,Leguminosae,,0,0,1,0,0
+p,416,Pinus,Pinus,Pinaceae,,1,1,0,0,0
+p,417,Piptadeniastrum-type africanum,Piptadeniastrum-type africanum,Leguminosae,,0,1,0,0,0
+p,418,Pistacia,Pistacia,Anacardiaceae,,0,0,0,1,0
+p,419,Plagiostyles-type africana,Plagiostyles africana,Euphorbiaceae,,0,1,0,0,0
+p,423,Podocarpus-type latifolius/milanjianus,Podocarpus milanjianus,Podocarpaceae,,0,0,0,0,0
+p,424,Polycarpaea-type,Polycarpaea ,Caryophyllaceae,,0,0,1,1,0
+p,431,Polyscias,Polyscias,Araliaceae,,0,1,0,0,0
+p,445,Psoralea,Psoralea,Leguminosae,,0,0,1,0,0
+p,452,Pterocarpus-type angolensis,Pterocarpus angolensis,Leguminosae,,0,0,0,0,0
+p,454,Quercus,Quercus (deciduous),Fagaceae,,1,1,0,0,0
+p,455,Ranunculus-type,Ranunculus,Ranunculaceae,,0,0,1,0,0
+p,456,Rapanea,Rapanea,Primulaceae,,0,1,0,0,0
+p,457,Raphia,Raphia,Arecaceae,,0,1,0,0,0
+p,460,Restionaceae undiff.,Restionaceae,Restionaceae,,0,0,0,0,0
+p,462,Rhanterium-type,Rhanterium,Compositae,,0,0,0,1,0
+p,463,Rhizophora,Rhizophora,Rhizophoraceae,,0,0,0,0,0
+p,467,Rosaceae undiff.,Rosaceae,Rosaceae,,0,1,1,1,0
+p,469,Ruschia-type,Ruschia,Aizoaceae,,0,0,0,0,0
+p,470,Sabicea,Sabicea,Rubiaceae,,0,1,0,0,0
+p,471,Sacoglottis gabonensis,Sacoglottis gabonensis,Humiriaceae,,0,1,0,0,0
+p,475,Salix,Salix,Salicaceae,,1,1,0,0,0
+p,476,Salvadora,Salvadora,Salvadoraceae,,0,0,1,1,0
+p,480,Sauvagesia erecta,Sauvagesia,Ochnaceae,,0,1,0,0,0
+p,481,Schefflera-type,Schefflera,Araliaceae,,0,1,0,0,0
+p,484,Sclerocarya-type,Sclerocarya,Anacardiaceae,,0,0,1,0,0
+p,485,Sclerosperma,Sclerosperma,Arecaceae,,0,1,0,0,0
+p,487,Scrophulariaceae undiff.,Scrophulariaceae,Scrophulariaceae,,0,1,1,1,0
+p,488,Searsia-type,Searsia/Anthrocaryon/Pseudospondias ,Anacardiaceae,,0,1,1,1,0
+p,493,Sesbania,Sesbania,Leguminosae,,0,0,1,0,0
+p,498,Solanaceae undiff.,Solanaceae,Solanaceae,,0,1,1,1,0
+p,502,Sorindeia-type juglandifolia,Sorindeia juglandifolia,Anacardiaceae,,0,0,0,0,0
+p,501,Sorindeia-type,Sorindeia-type,Anacardiaceae,,0,1,0,0,0
+p,503,Spermacoce-type radiata,Spermacoce radiata,Rubiaceae,,0,0,1,0,0
+p,505,Spirostachys-type,Spirostachys,Euphorbiaceae,,0,0,1,0,0
+p,513,Sterculiaceae undiff.,Sterculiaceae_undiff.,Malvaceae,,0,1,1,1,0
+p,514,Stereospermum-type,Stereospermum ,Bignoniaceae,,0,1,1,0,0
+p,515,Stoebe-type,Stoebe,Compositae,,0,0,0,0,0
+p,518,Strombosia,Strombosia,Olacaceae,,0,1,0,0,0
+p,519,Strychnos,Strychnos,Loganiaceae,,0,1,1,0,0
+p,520,Suaeda,Suaedua,Amaranthaceae,,0,0,1,0,0
+p,523,Tabernaemontana,Tabernaemontana,Apocynaceae,,0,1,0,0,0
+p,526,Tarchonanthus-type,Tarchonanthus,Compositae,,0,1,1,0,0
+p,529,Tephrosia,Tephrosia,Leguminosae,,0,1,1,1,0
+p,530,Terminalia-type,Terminalia-type,Combretaceae,,0,1,1,0,0
+p,532,Tetracera,Tetracera,Dilleniaceae,,0,1,1,0,0
+p,533,Tetracera alnifolia-type,Tetracera alnifolia,Dilleniaceae,,0,1,0,0,0
+p,535,Tetrapleura tetraptera-type,Tetrapleura tetraptera-type,Leguminosae,,0,1,0,0,0
+p,538,Tragia-type,Tragia,Euphorbiaceae,,0,1,0,0,0
+p,539,Treculia,Treculia,Moraceae,,0,1,0,0,0
+p,540,Treculia africana-type,Treculia-type africana,Moraceae,,0,0,0,0,0
+p,541,Tricalysia,Tricalysia ,Rubiaceae,,0,1,1,0,0
+p,543,Trichoscypha-type,Trichoscypha-type,Anacardiaceae,,0,1,0,0,0
+p,546,Triplochiton scleroxylon-type,Triplochiton scleroxylon-type,Malvaceae,,0,1,0,0,0
+p,548,Triumfetta-type,Triumfetta-type,Malvaceae,,0,0,0,0,0
+p,551,Uapaca guineensis-type,Uapaca guineensis-type,Phyllanthaceae,,0,1,0,0,0
+p,553,Ulmaceae undiff.,Ulmaceae,Ulmaceae,,0,1,0,0,0
+p,556,Urticaceae/Moraceae undiff.,Urticaceae/Moraceae,Urticaceae/Moraceae,,0,1,0,0,0
+p,559,Vangueria-type,Vangueria ,Rubiaceae,,0,1,1,0,0
+p,560,Vepris-type,Vepris-type,Rutaceae,,0,1,0,0,0
+p,563,Vitex-type,Vitex,Lamiaceae,,0,1,1,0,0
+v,2,Abutilon,Abutilon,Malvaceae,Abutilon,0,1,1,0,0
+v,6,Acacia senegal-type,Acacia Groupe I,Mimosaceae,Acacia,0,1,1,0,0
+v,7,Acacia seyal-type,Acacia Groupe III,Mimosaceae,Acacia,0,1,1,0,0
+v,3,Acacia,Acacia xanthophloea,Mimosaceae,Acacia_xan,0,1,1,0,0
+v,9,Acalypha,Acalypha villicaulis,Euphorbiaceae,Acaly_vil,0,1,1,0,0
+v,11,Acanthaceae undiff.,Acanthaceae undiff.,Acanthaceae,Acanthacea,0,1,1,0,0
+v,13,Acanthus-type,Acanthus,Acanthaceae,Acanthus,0,1,0,0,0
+v,15,Achyranthes-type aspera,Achyranthes aspera,Amaranthaceae,Achyran_as,0,1,1,0,0
+v,16,Acridocarpus,Acridocarpus,Malpighiaceae,Acridocarp,0,1,1,0,0
+v,20,Aerva-type javanica,Aerva javanica,Amaranthaceae,Aerva_java,0,1,1,0,0
+v,21,Aerva-type lanata,Aerva lanata,Amaranthaceae,Aerva_lana,0,1,1,0,0
+v,24,Aeschynomene baumii-type,Aeschynomene baumii,Fabaceae,Aeschyn_ba,0,1,1,0,0
+v,217,Cornus volkensii,Afrocrania volkensii,Cornaceae,Afro_volke,0,1,0,0,0
+v,26,Aizoaceae undiff.,Aizoaceae undiff.,Aizoaceae,Aizoaceae,0,1,1,0,0
+v,28,Alangium chinense,Alangium chinense,Alangiaceae,Alangiu_ch,0,1,0,0,0
+v,29,Albizia-type,Albizia,Mimosaceae,Albizia,0,1,1,0,0
+v,30,Alchemilla,Alchemilla,Rosaceae,Alchemilla,0,0,0,0,0
+v,31,Alchornea,Alchornea,Euphorbiaceae,Alchornea,0,1,0,0,0
+v,34,Allophylus,Allophylus,Sapindaceae,Allophylus,0,1,1,0,0
+v,35,Aloe-type,Aloe,Aloaceae,Aloe,0,1,1,0,0
+v,45,Anacardiaceae undiff.,Anacardiaceae undiff.,Anacardiaceae,Anacardiac,0,1,1,0,0
+v,52,Anthocleista,Anthocleista,Loganiaceae,Anthocleis,0,1,1,0,0
+v,53,Anthospermum,Anthospermum,Rubiaceae,Anthosperm,0,1,0,0,0
+v,56,Antidesma-type,Antidesma,Euphorbiaceae,Antidesma,0,1,1,0,0
+v,428,Lepisanthes-type senegalensis,Aphania senegalensis,Sapindaceae,Aphani_sen,0,1,0,0,0
+v,59,Aphloia theiformis,Aphloia theiformis,Flacourtiaceae,Aphlo_th,0,1,0,0,0
+v,60,Apiaceae undiff.,Apiaceae undiff.,Apiaceae,Apiaceae,0,1,1,0,0
+v,61,Apocynaceae undiff.,Apocynaceae undiff.,Apocynaceae,Apocynacea,0,1,1,0,0
+v,62,Apodytes dimidiata,Apodytes dimidiata,Icacinaceae,Apodyte_di,0,1,0,0,0
+v,70,Artemisia,Artemisia,Asteraceae,Artemisia,0,0,0,0,0
+v,75,Asparagus,Asparagus,Asparagaceae,Asparagus,0,1,1,0,0
+v,77,Asteraceae undiff.,Asteraceae undiff.,Asteraceae,Asteraceae,0,1,1,0,0
+v,83,Azima tetracantha,Azima tetracantha,Salvadoraceae,Azima_tet,0,0,1,0,0
+v,86,Balanites,Balanites,Balanitaceae,Balanites,0,1,1,1,0
+v,90,Begonia,Begonia,Begoniaceae,Begonia,0,1,0,0,0
+v,93,Bersama abyssinica-type,Bersama abyssinica,Melianthaceae,Bersama_ab,0,1,0,0,0
+v,100,Blepharis-type,Blepharis,Acanthaceae,Blepharis,0,1,1,0,0
+v,102,Blighia unijugata-type,Blighia unijugata,Sapindaceae,Blighia_un,0,1,1,0,0
+v,103,Boerhavia-type,Boerhavia,Nyctaginaceae,Boerhavia,0,0,1,0,0
+v,106,Borassus-type aethiopum,Borassus aethiopum,Palmae,Bora_aethi,0,0,1,0,0
+v,108,Boscia-type,Boscia,Capparidaceae,Boscia,0,1,1,1,0
+v,111,Brachystegia,Brachystegia,Caesalpiniaceae,Brachysteg,0,1,0,0,0
+v,112,Brassicaceae undiff.,Brassicaceae undiff.,Brassicaceae,Brassicace,0,1,1,0,0
+v,115,Bridelia micrantha-type,Bridelia micrantha,Euphorbiaceae,Bridel_mic,0,1,1,0,0
+v,117,Brucea antidysenterica-type,Brucea antidysenterica,Simaroubaceae,Bruce_an,0,1,0,0,0
+v,125,Caesalpiniaceae undiff.,Caesalpiniaceae undiff.,Caesalpiniaceae,Caesalpinc,0,1,1,0,0
+v,136,Capparaceae undiff.,Capparidaceae undiff.,Capparidaceae,Capparidac,0,1,1,0,0
+v,138,Capparis fascicularis-type,Capparis fascicularis,Capparidaceae,Cappari_fa,0,0,1,0,0
+v,139,Capparis tomentosa-type,Capparis tomentosa,Capparidaceae,Cappari_to,0,1,1,0,0
+v,144,Carduus-type,Carduus,Asteraceae,Carduus,0,1,0,0,0
+v,147,Caryophyllaceae undiff.,Caryophyllaceae undiff.,Caryophyllaceae,Caryophyl,0,1,1,1,0
+v,154,Ceiba pentandra,Ceiba pentandra,Bombacaceae,Ceiba_pent,0,1,0,0,0
+v,155,Celastraceae undiff.,Celastraceae undiff.,Celastraceae,Celastrac,0,1,1,0,0
+v,158,Celosia argentea-type,Celosia argentea,Amaranthaceae,Celosia_ar,0,0,1,0,0
+v,157,Celosia-type trigyna,Celosia trigyna,Amaranthaceae,Celosia_tr,0,1,1,0,0
+v,159,Celtis,Celtis,Ulmaceae,Celtis,0,1,0,0,0
+v,40,Amaranthaceae undiff.,Chenopodiaceae undiff.,Chenopodiaceae,Chenopodia,0,0,1,1,0
+v,176,Chrysophyllum-type,Chrysophyllum,Sapotaceae,Chrysophyl,0,1,0,0,0
+v,177,Cichorieae undiff.,Cichorieae undiff.,Asteraceae,Cichorie,0,1,1,0,0
+v,179,Cissampelos-type mucronata,Cissampelos mucronata,Menispermaceae,Cissamp_mu,0,1,1,0,0
+v,180,Cissus,Cissus,Vitaceae,Cissus,0,1,1,0,0
+v,181,Clausena anisata,Clausena anisata,Rutaceae,Clausen_an,0,1,0,0,0
+v,184,Clematis-type,Clematis,Ranunculaceae,Clematis,0,1,1,0,0
+v,187,Cleome-type gynandra,Cleome gynandra,Capparidaceae,Cleome_gyn,0,1,1,0,0
+v,189,Cliffortia nitidula-type,Cliffortia nitidula,Rosaceae,Cliffor_ni,0,1,0,0,0
+v,191,Clutia,Clutia,Euphorbiaceae,Clutia,0,1,0,0,0
+v,197,Combretaceae undiff.,Combretaceae undiff.,Combretaceae,Combretace,0,1,1,0,0
+v,198,Combretaceae/Melastomataceae undiff.,Combretaceae/Melastomataceae undiff.,Combretaceae/Melastomataceae,Comb_melas,0,1,1,0,0
+v,200,Combretum-type aculeatum,Combretum aculeatum,Combretaceae,Combret_ac,0,0,1,0,0
+v,201,Combretum-type molle,Combretum molle,Combretaceae,Combret_mo,0,1,1,0,0
+v,203,Commelina-type benghalensis,Commelina benghalensis,Commelinaceae,Commel_ben,0,1,1,0,0
+v,204,Commelinaceae undiff.,Commelinaceae undiff.,Commelinaceae,Commelicea,0,1,1,0,0
+v,206,Commiphora,Commiphora,Burseraceae,Commiphora,0,1,1,0,0
+v,207,Commiphora africana-type,Commiphora africana,Burseraceae,Commiph_af,0,1,1,0,0
+v,209,Convolvulaceae undiff.,Convolvulaceae undiff.,Convolvulaceae,Convolvula,0,1,1,0,0
+v,213,Cordia africana-type,Cordia africana,Boraginaceae,Cordia_afr,0,1,1,0,0
+v,221,Crassocephalum-type montuosum,Crassocephalum montuosum,Asteraceae,Crasso_mon,0,1,0,0,0
+v,224,Crateva adansonii,Crateva adansonii,Capparidaceae,Crateva_ad,0,0,1,1,0
+v,225,Crossopteryx febrifuga,Crossopteryx febrifuga,Rubiaceae,Crosso_feb,0,1,1,0,0
+v,226,Crotalaria,Crotalaria,Fabaceae,Crotalaria,0,1,1,1,0
+v,227,Croton-type,Croton,Euphorbiaceae,Croton,0,1,1,0,0
+v,231,Cucurbitaceae undiff.,Cucurbitaceae undiff.,Cucurbitaceae,Cucurbit,0,1,1,0,0
+v,234,Cussonia,Cussonia,Araliaceae,Cussonia,0,1,1,0,0
+v,237,Cyathula-type orthacantha,Cyathula orthacantha,Amaranthaceae,Cyathul_or,0,1,1,0,0
+v,245,Delonix,Delonix,Caesalpiniaceae,Delonix,0,0,1,0,0
+v,253,Digera-type muricata,Digera muricata,Amaranthaceae,Digera_mur,0,0,1,0,0
+v,255,Diospyros,Diospyros,Ebenaceae,Diospyros,0,1,0,0,0
+v,257,Dipterocarpaceae undiff.,Dipterocarpaceae undiff.,Dipterocarpaceae,Dipterocar,0,1,1,0,0
+v,261,Dodonaea viscosa,Dodonaea viscosa,Sapindaceae,Dodona_vis,0,1,0,0,0
+v,262,Dombeya-type,Dombeya,Sterculiaceae,Dombeya,0,1,1,0,0
+v,266,Dracaena steudneri-type,Dracaena steudneri,Dracaenaceae,Dracaen_st,0,1,0,0,0
+v,271,Ebenaceae undiff.,Ebenaceae undiff.,Ebenaceae,Ebenaceae,0,1,1,0,0
+v,274,Ekebergia-type capensis,Ekebergia capensis,Meliaceae,Ekeberg_ca,0,1,1,0,0
+v,283,Entada-type,Entada,Mimosaceae,Entada,0,1,1,0,0
+v,294,Ericaceae undiff.,Ericaceae undiff.,Ericaceae,Ericaceae,0,0,0,0,0
+v,300,Erythrococca-type,Erythrococca,Euphorbiaceae,Erythrococ,0,1,1,0,0
+v,302,Euclea,Euclea,Ebenaceae,Euclea,0,1,1,0,0
+v,305,Euphorbia-type,Euphorbia,Euphorbiaceae,Euphorbia,0,1,1,0,0
+v,307,Euphorbiaceae undiff.,Euphorbiaceae undiff.,Euphorbiaceae,Euphorbiac,0,1,1,0,0
+v,309,Fabaceae undiff.,Fabaceae undiff.,Fabaceae,Fabaceae,0,1,1,0,0
+v,316,Ficus,Ficus,Moraceae,Ficus,0,1,1,0,0
+v,317,Flabellaria-type paniculata,Flabellaria paniculata,Malpighiaceae,Flabel_pan,0,1,1,0,0
+v,320,Flueggea virosa-type,Flueggea virosa,Euphorbiaceae,Fluegg_vir,0,1,1,0,0
+v,327,Galiniera saxifraga,Galiniera saxifraga,Rubiaceae,Galinie_sa,0,1,0,0,0
+v,331,Garcinia quadrifaria-type,Garcinia gnetoides,Clusiaceae,Garcin_gne,0,1,0,0,0
+v,333,Gardenia-type imperialis,Gardenia imperialis,Rubiaceae,Garden_imp,0,1,1,0,0
+v,337,Geranium-type,Geranium,Geraniaceae,Geranium,0,0,0,0,0
+v,342,Grewia-type,Grewia,Tiliaceae,Grewia,0,1,1,0,0
+v,345,Gunnera perpensa,Gunnera perpensa,Halorrhagaceae,Gunnera_pe,0,1,0,0,0
+v,347,Hagenia abyssinica,Hagenia abyssinica,Rosaceae,Hagenia_ab,0,1,0,0,0
+v,318,Fleroya-type rubristipulata,Hallea rubrostipulata,Rubiaceae,Hallea_rub,0,1,0,0,0
+v,350,Harungana,Harungana,Hypericaceae,Harungana,0,1,0,0,0
+v,353,Heliotropium steudneri-type,Heliotropium steudneri,Boraginaceae,Heliot_ste,0,1,1,0,0
+v,355,Hermannia-type,Hermannia,Sterculiaceae,Hermannia,0,0,1,0,0
+v,357,Hibiscus,Hibiscus,Malvaceae,Hibiscus,0,1,1,0,0
+v,358,Holoptelea grandis,Holoptelea grandis,Ulmaceae,Holopt_gra,0,1,0,0,0
+v,363,Hymenocardia acida-type,Hymenocardia acida,Hymenocardiaceae,Hycard_aci,0,1,1,0,0
+v,366,Hymenodictyon-type floribundum,Hymenodictyon floribundum,Rubiaceae,Hydict_flo,0,1,1,0,0
+v,369,Hypericum,Hypericum,Hypericaceae,Hypericum,0,1,0,0,0
+v,370,Hyphaene-type,Hyphaene,Palmae,Hyphaene,0,0,1,0,0
+v,371,Hypoestes-type,Hypoestes,Acanthaceae,Hypoestes,0,1,1,0,0
+v,372,Hyptis,Hyptis,Lamiaceae,Hyptis,0,1,1,0,0
+v,374,Ilex mitis,Ilex mitis,Aquifoliaceae,Ilex_mitis,0,1,0,0,0
+v,375,Impatiens,Impatiens,Balsaminaceae,Impatiens,0,1,0,0,0
+v,377,Indigofera,Indigofera,Fabaceae,Indigofera,0,1,1,1,0
+v,380,Ipomoea-type,Ipomoea,Convolvulaceae,Ipomoea,0,1,1,1,0
+v,385,Irvingiaceae undiff.,Irvingiaceae undiff.,Irvingiaceae,Irvingiace,0,1,0,0,0
+v,386,Isoberlinia-type,Isoberlinia,Caesalpiniaceae,Isoberlini,0,1,0,0,0
+v,388,Isoglossa,Isoglossa,Acanthaceae,Isoglossa,0,1,0,0,0
+v,391,Jasminum,Jasminum,Oleaceae,Jasminum,0,1,1,0,0
+v,393,Julbernardia-type seretii,Julbernardia seretii,Caesalpiniaceae,Julber_ser,0,1,0,0,0
+v,398,Juniperus-type procera,Juniperus procera,Cupressaceae,Juniper_pr,0,1,0,0,0
+v,402,Justicia anselliana-type,Justicia anselliana,Acanthaceae,Justi_anse,0,1,1,0,0
+v,400,Justicia-type flava,Justicia flava,Acanthaceae,Justi_flav,0,1,1,0,0
+v,401,Justicia-type odora,Justicia odora,Acanthaceae,Justi_odor,0,0,1,0,0
+v,403,Justicia striata-type,Justicia striata,Acanthaceae,Justi_stri,0,1,1,0,0
+v,404,Kalanchoe,Kalanchoe,Crassulaceae,Kalanchoe,0,1,1,1,0
+v,407,Keetia-type gueinzii,Keetia gueinzii,Rubiaceae,Keetia_gue,0,1,0,0,0
+v,415,Lamiaceae undiff.,Lamiaceae undiff.,Lamiaceae,Lamiaceae,0,1,1,0,0
+v,417,Lannea-type,Lannea,Anacardiaceae,Lannea,0,1,1,0,0
+v,427,Leonotis-type,Leonotis,Lamiaceae,Leonotis,0,1,1,0,0
+v,429,Leucas-type,Leucas,Lamiaceae,Leucas,0,1,1,0,0
+v,434,Linaceae undiff.,Linaceae undiff.,Linaceae,Linaceae,0,1,0,0,0
+v,121,Buddlejaceae/Salvadoraceae undiff.,Loganiaceae/Salvadoraceae undiff.,Loganiaceae/Salvadoraceae,Nuxia/Dobe,0,1,1,0,0
+v,444,Loranthaceae undiff.,Loranthaceae undiff.,Loranthaceae,Loranthac,0,1,1,0,0
+v,451,Lycium,Lycium,Solanaceae,Lycium,0,0,1,1,0
+v,459,Macaranga-type,Macaranga,Euphorbiaceae,Macaranga,0,1,0,0,0
+v,461,Maerua-type,Maerua,Capparidaceae,Maerua,0,1,1,1,0
+v,463,Maesa lanceolata-type,Maesa lanceolata,Myrsinaceae,Maesa_lanc,0,1,1,0,0
+v,466,Malvaceae undiff.,Malvaceae undiff.,Malvaceae,Malvaceae,0,1,1,0,0
+v,471,Margaritaria discoidea,Margaritaria discoidea,Euphorbiaceae,Margar_dis,0,1,1,0,0
+v,475,Melastomataceae undiff.,Melastomataceae undiff.,Melastomataceae,Melastomat,0,1,0,0,0
+v,476,Meliaceae undiff.,Meliaceae undiff.,Meliaceae,Meliaceae,0,1,1,0,0
+v,478,Mellera-type,Mellera,Acanthaceae,Mellera,0,1,1,0,0
+v,482,Milicia-type excelsa,Milicia excelsa,Moraceae,Milicia_ex,0,1,0,0,0
+v,485,Mimosaceae undiff.,Mimosaceae undiff.,Mimosaceae,Mimosaceae,0,1,1,0,0
+v,486,Mimulopsis-type,Mimulopsis,Acanthaceae,Mimulopsis,0,1,0,0,0
+v,489,Mitracarpus villosus,Mitracarpus villosus,Rubiaceae,Mitrac_vil,0,1,1,0,0
+v,496,Monocotyledoneae undiff.,Monocotyledoneae undiff.,Monocotyledoneae,Monocotyl,0,1,1,1,0
+v,503,Moraceae undiff.,Moraceae undiff.,Moraceae,Moraceae,0,1,1,0,0
+v,514,Myrianthus-type holstii,Myrianthus holstii,Moraceae,Myriant_ho,0,1,0,0,0
+v,505,Morella,Myrica,Myricaceae,Myrica,0,1,0,0,0
+v,518,Myrsine africana,Myrsine africana,Myrsinaceae,Myrsine_af,0,1,0,0,0
+v,519,Myrtaceae undiff.,Myrtaceae undiff.,Myrtaceae,Myrtaceae,0,1,1,0,0
+v,526,Nuxia/Dobera,Nuxia/Dobera,Loganiaceae/Salvadoraceae,Nuxia/Dobe,0,1,1,0,0
+v,527,Nuxia/Ficalhoa,Nuxia/Ficalhoa,Loganiaceae/Theaceae,Nuxia/Fica,0,1,0,0,0
+v,528,Nyctaginaceae undiff.,Nyctaginaceae undiff.,Nyctaginaceae,Nyctaginac,0,1,1,0,0
+v,535,Ocotea,Ocotea,Lauraceae,Ocotea,0,1,0,0,0
+v,537,Oldenlandia-type,Oldenlandia,Rubiaceae,Oldenlandi,0,1,1,0,0
+v,539,Olea capensis-type,Olea capensis,Oleaceae,Olea_capen,0,1,0,0,0
+v,542,Olea europaea-type,Olea europaea,Oleaceae,Olea_europ,0,1,0,0,0
+v,560,Ozoroa-type insignis,Ozoroa insignis,Anacardiaceae,Ozoroa_ins,0,1,1,0,0
+v,563,Parinari-type,Parinari,Chrysobalanaceae,Parinari,0,1,1,0,0
+v,565,Paronychia,Paronychia,Caryophyllaceae,Paronychia,0,0,1,1,0
+v,567,Paullinia pinnata,Paullinia pinnata,Sapindaceae,Paulli_pin,0,1,0,0,0
+v,571,Pavetta gardeniifolia-type,Pavetta gardeniifolia,Rubiaceae,Pavet_gard,0,1,1,0,0
+v,585,Phoenix reclinata-type,Phoenix reclinata,Palmae,Phoeni_rec,0,1,0,0,0
+v,592,Phyllanthus-type muellerianus,Phyllanthus muellerianus,Euphorbiaceae,Phyll_muel,0,1,1,0,0
+v,594,Phyllanthus-type reticulatus,Phyllanthus reticulatus,Euphorbiaceae,Phyll_reti,0,1,1,0,0
+v,590,Phyllanthus-type leucanthus,Phyllanthus rivae,Euphorbiaceae,Phyll_riva,0,1,0,0,0
+v,596,Pilea-type,Pilea bambuseti,Urticaceae,Pilea_bamb,0,1,0,0,0
+v,604,Plantago,Plantago,Plantaginaceae,Plantago,0,1,1,1,0
+v,605,Plantago lanceolata-type,Plantago lanceolata,Plantaginaceae,Planta_lan,0,1,1,0,0
+v,609,Poaceae undiff.,Poaceae undiff.,Poaceae,Poaceae,0,0,0,0,1
+v,610,Podocarpus-type,Podocarpus,Podocarpaceae,Podocarpus,0,1,0,0,0
+v,615,Polygala-type,Polygala,Polygalaceae,Polygala,0,1,1,0,0
+v,622,Polyscias fulva-type,Polyscias fulva,Araliaceae,Polysc_ful,0,1,0,0,0
+v,630,Protea-type,Protea,Proteaceae,Protea,0,1,0,0,0
+v,634,Prunus africana-type,Prunus africana,Rosaceae,Prunus_afr,0,1,0,0,0
+v,637,Psilotrichum-type elliottii,Psilotrichum elliottii,Amaranthaceae,Psilotr_el,0,1,1,0,0
+v,640,Psychotria,Psychotria,Rubiaceae,Psychotria,0,1,1,0,0
+v,641,Psychotria amboniana-type,Psychotria amboniana,Rubiaceae,Psychot_am,0,1,1,0,0
+v,642,Psydrax-type schimperiana,Psydrax schimperiana,Rubiaceae,Psydrax_sc,0,1,0,0,0
+v,649,Pterocarpus-type,Pterocarpus,Fabaceae,Pterocarpu,0,1,1,0,0
+v,652,Pycnanthus,Pycnanthus,Myristicaceae,Pycnanthus,0,1,0,0,0
+v,653,Pycnanthus angolensis-type,Pycnanthus angolensis,Myristicaceae,Pycna_ango,0,1,0,0,0
+v,655,Ranunculaceae undiff.,Ranunculaceae undiff.,Ranunculaceae,Ranunaceae,0,1,1,0,0
+v,658,Rapanea melanophloeos-type,Rapanea melanophloeos,Myrsinaceae,Rapanea_me,0,1,0,0,0
+v,660,Rauvolfia,Rauvolfia,Apocynaceae,Rauvolfia,0,1,0,0,0
+v,662,Resedaceae undiff.,Resedaceae undiff.,Resedaceae,Resedaceae,0,0,1,1,0
+v,665,Rhamnaceae undiff.,Rhamnaceae undiff.,Rhamnaceae,Rhamnaceae,0,1,1,0,0
+v,670,Rhus-type,Rhus,Anacardiaceae,Rhus,0,1,1,0,0
+v,671,Rhynchosia-type,Rhynchosia,Fabaceae,Rhynchosia,0,1,1,0,0
+v,673,Ricinus communis,Ricinus communis,Euphorbiaceae,Ricinus_co,0,1,1,0,0
+v,676,Rubiaceae undiff.,Rubiaceae undiff.,Rubiaceae,Rubiaceae,0,1,1,0,0
+v,678,Rubus pinnatus-type,Rubus pinnatus,Rosaceae,Rubus_pinn,0,1,0,0,0
+v,679,Ruellia,Ruellia,Acanthaceae,Ruellia,0,1,1,0,0
+v,680,Rumex,Rumex,Polygonaceae,Rumex,0,1,1,0,0
+v,682,Rutaceae undiff.,Rutaceae undiff.,Rutaceae,Rutaceae,0,1,1,0,0
+v,690,Salvadora persica-type,Salvadora persica,Salvadoraceae,Salvad_per,0,0,1,1,0
+v,693,Sapindaceae undiff.,Sapindaceae undiff.,Sapindaceae,Sapindacea,0,1,1,0,0
+v,695,Sapotaceae undiff.,Sapotaceae undiff.,Sapotaceae,Sapotaceae,0,1,1,0,0
+v,697,Scabiosa-type,Scabiosa,Dipsacaceae,Scabiosa,0,0,0,0,0
+v,78,Astropanax-type abyssinicus,Schefflera abyssinica,Araliaceae,Schef_abys,0,1,0,0,0
+v,79,Astropanax-type myrianthus,Schefflera myriantha,Araliaceae,Schef_myri,0,1,0,0,0
+v,710,Sericostachys-type scandens,Serichostachysscandens,Amaranthaceae,Serich_sca,0,1,0,0,0
+v,713,Sesbania sesban,Sesbania sesban,Fabaceae,Sesban_ses,0,1,1,0,0
+v,714,Shirakiopsis-type elliptica,Shirakia elliptica,Euphorbiaceae,Shiraki_el,0,1,1,0,0
+v,721,Solanum-type,Solanum,Solanaceae,Solanum,0,1,1,0,0
+v,725,Spermacoce-type,Spermacoce,Rubiaceae,Spermacoce,0,1,1,0,0
+v,736,Stephania-type abyssinica,Stephania abyssinica,Menispermaceae,Steph_abys,0,1,1,0,0
+v,737,Sterculia-type,Sterculia,Sterculiaceae,Sterculia,0,1,1,0,0
+v,711,Seriphium-type kilimandscharicum,Stoebe kilimandscharica,Asteraceae,Stoeb_kili,0,0,0,0,0
+v,746,Suaeda monoica-type,Suaeda monoica,Chenopodiaceae,Suaeda_mon,0,0,1,1,0
+v,749,Symphonia globulifera,Symphonia globulifera,Clusiaceae,Sympho_glo,0,1,0,0,0
+v,750,Syzygium-type,Syzygium,Myrtaceae,Syzygium,0,1,1,0,0
+v,752,Tacazzea-type apiculata,Tacazzea apiculata,Asclepiadaceae,Tacaz_apic,0,1,0,0,0
+v,753,Tamarindus-type indica,Tamarindus indica,Caesalpiniaceae,Tamarin_in,0,1,1,0,0
+v,754,Tamarix,Tamarix,Tamaricaceae,Tamarix,0,0,1,1,0
+v,756,Tapinanthus-type,Tapinanthus,Loranthaceae,Tapinanthu,0,1,1,0,0
+v,760,Teclea-type,Teclea,Rutaceae,Teclea,0,1,0,0,0
+v,770,Tetrorchidium,Tetrorchidium,Euphorbiaceae,Tetrorchid,0,1,0,0,0
+v,771,Thalictrum,Thalictrum,Ranunculaceae,Thalictrum,0,1,0,0,0
+v,773,Thymelaeaceae undiff.,Thymelaeaceae undiff.,Thymelaeaceae,Thymelaeac,0,1,1,0,0
+v,774,Tiliaceae undiff.,Tiliaceae undiff.,Tiliaceae,Tiliaceae,0,1,1,0,0
+v,775,Tiliacora-type,Tiliacora,Menispermaceae,Tiliacora,0,1,0,0,0
+v,776,Toddalia asiatica,Toddalia asiatica,Rutaceae,Toddali_as,0,1,1,0,0
+v,780,Trema-type orientalis,Trema orientalis,Ulmaceae,Trema_orie,0,1,0,0,0
+v,781,Tribulus,Tribulus,Tribulaceae,Tribulus,0,0,1,0,0
+v,783,Trichilia-type,Trichilia,Meliaceae,Trichilia,0,1,1,0,0
+v,787,Trilepisium-type madagascariense,Trilepisium madagascariensis,Moraceae,Trilepi_ma,0,1,0,0,0
+v,794,Uapaca,Uapaca,Euphorbiaceae,Uapaca,0,1,0,0,0
+v,796,Uapaca kirkiana-type,Uapaca kirkiana,Euphorbiaceae,Uapaca_kir,0,1,0,0,0
+v,797,Uapaca nitida-type,Uapaca nitida,Euphorbiaceae,Uapaca_nit,0,1,0,0,0
+v,450,Lychnis-type abyssinica ,Uebeliana abyssinica,Caryophyllaceae,Uebeli_aby,0,0,0,0,0
+v,800,Uncaria-type africana,Uncaria africana,Rubiaceae,Uncaria_af,0,1,0,0,0
+v,803,Urticaceae undiff.,Urticaceae undiff.,Urticaceae,Urticaceae,0,1,1,0,0
+v,809,Verbenaceae undiff.,Verbenaceae undiff.,Verbenaceae,Verbenacea,0,1,1,0,0
+v,614,Polydora-type serratuloides,Vernonia perrottetii,Asteraceae,Vernon_per,0,1,1,0,0
+v,811,Vernonieae undiff.,Vernonieae undiff.,Asteraceae,Vernonieae,0,1,1,0,0
+v,812,Vigna-type,Vigna,Fabaceae,Vigna,0,1,1,0,0
+v,813,Vitaceae undiff.,Vitaceae undiff.,Vitaceae,Vitaceae,0,1,1,0,0
+v,816,Volkensinia prostrata,Volkensinia prostrata,Amaranthaceae,Volken_pros,0,0,1,0,0
+v,821,Ximenia,Ximenia,Olacaceae,Ximenia,0,1,1,0,0
+v,824,Zanha golungensis-type,Zanha golungensis,Sapindaceae,Zanha_golu,0,1,0,0,0
+v,825,Zanthoxylum-type,Zanthoxylum,Rutaceae,Zanthoxylu,0,1,1,0,0
+v,827,Zanthoxylum-type usambarense,Zanthoxylum usambarense,Rutaceae,Zantho_usa,0,1,0,0,0
+v,833,Zygophyllum-type,Zygophyllum,Zygophyllaceae,Zygophyl,0,0,1,1,0
+z,1,,NA,NA,,0,0,0,0,0
+z,2,Acacia gerrardii-type,Acacia,NA,v,0,1,1,0,0
+z,3,Acacia mellifera-type,Acacia,NA,v,0,1,1,0,0
+z,4,Acaena latebros-type,Rosaceae,NA,p,0,1,1,1,0
+z,5,Acalypha crenata-type,Acalypha,NA,v,0,1,1,0,0
+z,6,Acanthophoenix rubra,Arecaceae,NA,p,0,1,1,1,0
+z,7,Achyranthes-type,Achyranthes aspera,NA,v,0,1,1,0,0
+z,8,Adansonia ,Adansonia digitata,NA,p,0,1,1,0,0
+z,11,Aerva/Cornulaca,Aerva,NA,p,0,0,1,0,0
+z,12,Aeschynomene ,Aeschynomene baumii,NA,v,0,1,1,0,0
+z,15,Alisma plantago-aquatica,NA,NA,remove,0,0,0,0,0
+z,16,Alismataceae undiff.,NA,NA,remove,0,0,0,0,0
+z,20,Amanoa-type,NA,NA,remove,0,0,0,0,0
+z,21,Amaranthus-type,Amaranthaceae,NA,v,0,1,1,1,0
+z,22,Amaryllidaceae undiff.,Monocotyledonae undiff.,NA,p,0,1,1,1,0
+z,24,Ammannia-type,NA,NA,remove,0,0,0,0,0
+z,25,Anagallis,Anagallis angustiloba,NA,v,0,0,0,0,0
+z,26,Anchusa-type,NA,NA,remove,0,0,0,0,0
+z,27,Anemia-type,NA,NA,remove,0,0,0,0,0
+z,29,Anthoceros,NA,NA,remove,0,0,0,0,0
+z,30,Anthocerotaceae undiff.,NA,NA,remove,0,0,0,0,0
+z,35,Aponogeton,NA,NA,remove,0,0,0,0,0
+z,39,Armeria-type,NA,NA,remove,0,0,0,0,0
+z,40,Arnebia,Boraginaceae,NA,p,0,1,1,1,0
+z,41,Arnebia hispidissima-type,Boraginaceae,NA,p,0,1,1,1,0
+z,42,Artemisia afra-type,Artemisia,NA,p,0,0,1,1,0
+z,43,Arthrocaulon-type,Amaranthaceae,NA,v,0,1,1,1,0
+z,45,Ascolepis,Cyperaceae,NA,p,0,1,1,1,0
+z,46,Asphodelaceae undiff.,Asphodelus,NA,p,0,0,0,0,0
+z,47,Atractylis-type,Asteraceae undiff.,NA,v,0,1,1,0,0
+z,50,Azorella,Apiaceae undiff.,NA,v,0,1,1,0,0
+z,53,Barringtonia-type,NA,NA,remove,0,0,0,0,0
+z,54,Basilicum/Hoslundia,Hoslundia-type opposita,NA,p,0,1,1,0,0
+z,55,Berlinia-type,Caesalpiniaceae Berlinia,NA,p,0,1,0,0,0
+z,56,Bersama,Bersama abyssinica,NA,v,0,1,0,0,0
+z,58,Bidens-type,Asteraceae undiff.,NA,v,0,1,1,0,0
+z,59,Bignoniaceae undiff.,NA,NA,remove,0,0,0,0,0
+z,60,Bismarckia nobilis,Palmae,NA,p,0,1,1,1,0
+z,61,Blechnaceae undiff.,NA,NA,remove,0,0,0,0,0
+z,62,Blechnum,NA,NA,remove,0,0,0,0,0
+z,67,Botryococcus,NA,NA,remove,0,0,0,0,0
+z,72,Bruguiera,Rhizophora,NA,p,0,0,0,0,0
+z,74,Bryophyta undiff.,NA,NA,remove,0,0,0,0,0
+z,76,Buxus,Buxus madagascarica,NA,v,0,1,1,0,0
+z,79,Callitriche,NA,NA,remove,0,0,0,0,0
+z,86,Cannabis sativa,NA,NA,remove,0,0,0,0,0
+z,87,Cannabis/Humulus,NA,NA,remove,0,0,0,0,0
+z,89,Carapa-type,Carapa-type procera,NA,p,0,1,0,0,0
+z,91,Cardamine,Brassicaceae undiff.,NA,v,0,1,1,0,0
+z,93,Carex-type,Cyperaceae,NA,p,0,1,1,1,0
+z,94,Carissa,Carissa edulis,NA,v,0,1,1,0,0
+z,96,Cassine-type,Celastraceae undiff.,NA,v,0,1,1,0,0
+z,97,Cassine-type orientalis,Celastraceae undiff.,NA,v,0,1,1,0,0
+z,99,Casuarina,NA,NA,remove,0,0,0,0,0
+z,100,Catha-type edulis,Celastraceae undiff.,NA,v,0,1,1,0,0
+z,101,Celosia-type,Celosia trigyna,NA,v,0,1,1,0,0
+z,102,Celtis/Hymenocardia,Celtis/Hymenocardia,NA,v,0,1,1,0,0
+z,103,Centaurea-type,Centaurea perrottettii,NA,p,0,0,1,0,0
+z,104,Centaurea-type jacea,Centaurea perrottettii,NA,p,0,0,1,0,0
+z,105,Cephalaria,NA,NA,remove,0,0,0,0,0
+z,106,Ceratopteris,NA,NA,remove,0,0,0,0,0
+z,107,Cercestis-type congoensis,Monocot,NA,p,0,1,1,1,0
+z,108,Cerealia,Poaceae undiff.,NA,v,0,0,0,0,1
+z,109,Ceriops tagal,Rhizophora,NA,p,0,0,0,0,0
+z,111,Chenopodium-type,Amaranthaceae,NA,v,0,1,1,0,0
+z,115,Chrozophora tinctoria-type,Chrozophora,NA,p,0,0,0,1,0
+z,117,Chrysobalanus/Parinari,Chrysobalanus-type icaco,NA,p,0,1,0,0,0
+z,120,Cleistanthus-type libericus,Cleistanthus polystachyus,NA,v,0,1,0,0,0
+z,121,Clematis-type mauritiana,Clematis,NA,v,0,1,1,0,0
+z,125,Coccinia grandis-type,Coccinia,NA,v,0,1,1,0,0
+z,130,Combretum-type,Combretum-type,NA,v,0,1,1,0,0
+z,131,Commelina-type,Commelina benghalensis,NA,v,0,1,1,0,0
+z,132,Commicarpus-type,Nyctaginaceae undiff.,NA,v,0,1,1,0,0
+z,134,Convolvulus-type,Convolvulaceae undiff.,NA,v,0,1,1,0,0
+z,135,Corchorus-type,Corchorus fascicularis,NA,v,0,0,1,0,0
+z,138,Cordia/Bourreria,Cordia,NA,p,0,1,1,0,0
+z,139,Cornulaca,Cornulaca monacantha,NA,p,0,0,1,1,0
+z,140,Corylus,Betula,NA,p,1,1,0,0,0
+z,141,Cotula-type,Asteraceae undiff.,NA,v,0,1,1,0,0
+z,143,Crassula,Crassulaceae,NA,p,0,0,1,1,0
+z,145,Croton/Neoboutonia,Croton,NA,v,0,1,1,0,0
+z,147,Crudia-type zenkeri,Crudia gabonensis,NA,p,0,1,0,0,0
+z,149,Cuscuta-type,NA,NA,remove,0,0,0,0,0
+z,150,Cyathea,NA,NA,remove,0,0,0,0,0
+z,152,Cycas thouarsii,NA,NA,remove,0,0,0,0,0
+z,153,Cynoglossum-type,Boraginaceae,NA,p,0,1,1,1,0
+z,154,Cynometra-type,Cynometra-type,NA,p,0,1,1,1,0
+z,156,Cyphostemma-type cyphopetalum,Cyphostemma,NA,v,0,1,1,0,0
+z,157,Cyphostemma-type mappia,Cyphostemma,NA,v,0,1,1,0,0
+z,163,Dicliptera-type,Acanthaceae undiff.,NA,v,0,1,1,0,0
+z,164,Dictyosperma-type,Palmae,NA,p,0,1,1,1,0
+z,165,Didierea,NA,NA,remove,0,0,0,0,0
+z,167,Dipsacaceae undiff.,Dipsacus pinnatifidus,NA,v,0,0,0,0,0
+z,168,Dipterygium-type glaucum,Capparidaceae undiff.,NA,v,0,1,1,0,0
+z,169,Dobera-type,Loganiaceae/Salvadoraceae undiff.,NA,v,0,1,1,0,0
+z,170,Dodonaea,Dodonaea viscosa,NA,v,0,1,0,0,0
+z,171,Dombeya-type elliptica,Dombeya,NA,v,0,1,1,0,0
+z,174,Drimia,Asparagus,NA,p,0,1,1,0,0
+z,175,Drosera,NA,NA,remove,0,0,0,0,0
+z,177,Dypsis,Palmae,NA,p,0,1,1,1,0
+z,178,Ehretia cymosa-type,Ehretia,NA,v,0,1,1,0,0
+z,181,Elaeocarpaceae undiff.,NA,NA,remove,0,0,0,0,0
+z,182,Elaeocarpus,NA,NA,remove,0,0,0,0,0
+z,184,Elatine,NA,NA,remove,0,0,0,0,0
+z,185,Embelia,Maesa lanceolata,NA,v,0,1,1,0,0
+z,186,Encephalartos,NA,NA,remove,0,0,0,0,0
+z,190,Ephedra distachya-type,Ephedra,NA,p,0,0,0,1,0
+z,191,Ephedra fragilis-type,Ephedra,NA,p,0,0,0,1,0
+z,193,Epilobium-type,Onagraceae,NA,p,0,0,1,1,0
+z,194,Equisetum,NA,NA,remove,0,0,0,0,0
+z,195,Erica-type,Ericaceae undiff.,NA,v,0,0,0,0,0
+z,196,Erica-type arborea,Ericaceae undiff.,NA,v,0,0,0,0,0
+z,197,Erica-type comorensis,Ericaceae undiff.,NA,v,0,0,0,0,0
+z,199,Eriocaulon-type,Eriocaulaceae,NA,p,0,1,0,0,0
+z,201,Eriosema-type,Fabaceae undiff.,NA,v,0,1,1,0,0
+z,203,Erythrophleum-type,Fabaceae undiff.,NA,v,0,1,1,0,0
+z,204,Eugenia-type,Eugenia/Syzygium ,NA,p,0,1,1,0,0
+z,207,Excoecaria-type,Euphorbiaceae undiff.,NA,v,0,1,1,0,0
+z,208,Fagaropsis-type,Rutaceae undiff.,NA,v,0,1,1,0,0
+z,211,Faurea-type,Allophylus,NA,v,0,1,1,0,0
+z,212,Faurea/Allophylus,Allophylus,NA,v,0,1,1,0,0
+z,215,Foetidia-type,NA,NA,remove,0,0,0,0,0
+z,217,Fumariaceae undiff.,NA,NA,remove,0,0,0,0,0
+z,218,Fungi undiff.,NA,NA,remove,0,0,0,0,0
+z,221,Galium-type,Rubia,NA,v,0,1,0,0,0
+z,222,Galium/Rubia,Rubia,NA,v,0,1,0,0,0
+z,225,Gardenieae undiff.,Gardenia ,NA,p,0,1,1,0,0
+z,228,Gilbertiodendron-type mayombense,Gilbertiodendron-type,NA,p,0,1,0,0,0
+z,229,Givotia gosai/Jatropha,Jatropha,NA,v,0,0,1,0,0
+z,230,Glomus,NA,NA,remove,0,0,0,0,0
+z,233,Guiera senegalensis,Combretaceae undiff.,NA,v,0,1,1,0,0
+z,234,Gymnema,Apocynaceae undiff.,NA,v,0,1,1,0,0
+z,235,Halorrhagaceae undiff.,NA,NA,remove,0,0,0,0,0
+z,236,Hardwickia mopane,Caesalpiniaceae,NA,p,0,1,0,0,0
+z,240,Heteromorpha-type,Apiaceae undiff.,NA,v,0,1,1,0,0
+z,241,Hydrocotyle,NA,NA,remove,0,0,0,0,0
+z,242,Hydrocotyle ranunculoides-type,NA,NA,remove,0,0,0,0,0
+z,245,Hymenocardia/Chaetacme aristata,Hymenocardia acida,NA,v,0,1,1,0,0
+z,246,Hymenodictyon-type,Hymenodictyon floribundum,NA,v,0,1,1,0,0
+z,248,Hyophorbe,Palmae,NA,p,0,1,1,1,0
+z,250,Indeterminable,NA,NA,remove,0,0,0,0,0
+z,251,Inuleae undiff.,Asteraceae undiff.,NA,v,0,1,1,0,0
+z,253,Iridaceae undiff.,Monocot,NA,p,0,1,1,1,0
+z,254,Irvingia-type,Irvingiaceae undiff.,NA,v,0,1,0,0,0
+z,256,Irvingia-type wombolu,Irvingiaceae undiff.,NA,v,0,1,0,0,0
+z,257,Isoetes,NA,NA,remove,0,0,0,0,0
+z,259,Jacquemontia,Convolvulaceae undiff.,NA,v,0,1,1,0,0
+z,261,Juncaceae undiff.,NA,NA,remove,0,0,0,0,0
+z,262,Juncus,NA,NA,remove,0,0,0,0,0
+z,263,Juniperus-type,Juniperus procera,NA,v,0,1,0,0,0
+z,264,Juniperus-type excelsa,Juniperus procera,NA,v,0,1,0,0,0
+z,266,Kedrostis,Kedrostis foetidissima,NA,v,0,1,1,0,0
+z,267,Keetia-type cornelia,Keetia gueinzii,NA,v,0,1,0,0,0
+z,269,Kickxia/Diclis,Scrophulariaceae,NA,p,0,1,1,0,0
+z,271,Kirkia,Simaroubaceae,NA,p,0,1,1,0,0
+z,274,Kotschya,Kotschya africana,NA,v,0,1,1,0,0
+z,277,Lantana-type,Lantana viburnoides,NA,v,0,1,1,0,0
+z,278,Laportea-type,Laportea aestuens,NA,v,0,1,0,0,0
+z,279,Lasianthus-type,Rubiaceae undiff.,NA,v,0,1,1,0,0
+z,280,Latania,Palmae,NA,p,0,1,1,1,0
+z,281,Latania/Dracaena,Dracaena schizantha,NA,v,0,1,0,0,0
+z,283,Lawsonia-type inermis,NA,NA,remove,0,0,0,0,0
+z,287,Limonium-type,NA,NA,remove,0,0,0,0,0
+z,288,Limosella-type,Scrophulariaceae,NA,p,0,1,1,0,0
+z,289,Lindernia,Scrophulariaceae,NA,p,0,1,1,0,0
+z,290,Lingelsheimia fructescens,Euphorbiaceae undiff.,NA,v,0,1,1,0,0
+z,291,Lippia-type,Lantana/Lippia ,NA,p,0,1,1,1,0
+z,297,Lophira lanceolata-type,Lophira,NA,p,0,1,0,0,0
+z,299,Lotus arabicus-type,Lotus,NA,p,0,0,1,1,0
+z,300,Ludwigia-type,Onagraceae,NA,p,0,0,1,1,0
+z,302,Lumnitzera racemosa ,Combretaceae undiff.,NA,v,0,1,1,0,0
+z,303,Lycopodiaceae undiff.,NA,NA,remove,0,0,0,0,0
+z,305,Lycopodium-type magellanicum,NA,NA,remove,0,0,0,0,0
+z,306,Lygodium,NA,NA,remove,0,0,0,0,0
+z,308,Lythraceae undiff.,NA,NA,remove,0,0,0,0,0
+z,309,Lythrum,NA,NA,remove,0,0,0,0,0
+z,312,Mallotus-type,Mallotus-type oppositifolius,NA,p,0,1,0,0,0
+z,314,Mangifera indica,Anacardiaceae undiff.,NA,v,0,1,1,0,0
+z,315,Manilkara-type,Sapotaceae undiff.,NA,v,0,1,1,0,0
+z,316,Maprounea,Euphorbiaceae undiff.,NA,v,0,1,1,0,0
+z,320,Maytenus-type,Maytenus senegalensis,NA,p,0,1,1,0,0
+z,321,Meliaceae/Sapotaceae undiff.,Meliaceae undiff.,NA,v,0,1,1,0,0
+z,323,Merremia-type,Merremia tridentata,NA,p,0,1,0,0,0
+z,325,Mimosa,Mimosa pigra,NA,p,0,1,0,0,0
+z,329,Mitragyna-type ,Corynanthe/Fleroya/Hymenodictyon/Mitragyna inermis/Nauclea/Pausinystalia/Sarcocephalus/Uncaria ,NA,p,0,1,1,0,0
+z,330,Mitragyna-type inermis,Corynanthe/Fleroya/Hymenodictyon/Mitragyna inermis/Nauclea/Pausinystalia/Sarcocephalus/Uncaria ,NA,p,0,1,1,0,0
+z,331,Mitragyna-type stipulosa,Corynanthe/Fleroya/Hymenodictyon/Mitragyna inermis/Nauclea/Pausinystalia/Sarcocephalus/Uncaria ,NA,p,0,1,1,0,0
+z,332,Molinaea-type,Sapindaceae undiff.,NA,v,0,1,1,0,0
+z,334,Monimia,Eugenia/Syzygium ,NA,p,0,1,1,0,0
+z,336,Monotes,Monotes kerstingii,NA,p,0,1,1,0,0
+z,337,Monotes lutambensis,Monotes kerstingii,NA,p,0,1,1,0,0
+z,338,Monsonia heliotropioides-type,Geraniaceae,NA,p,0,0,1,1,0
+z,339,Montia-type fontana,NA,NA,remove,0,0,0,0,0
+z,340,Montiniaceae undiff.,NA,NA,remove,0,0,0,0,0
+z,342,Morella humilis-type,Myrica,NA,v,0,1,0,0,0
+z,343,Morus-type mesozygia,Moraceae undiff.,NA,v,0,1,1,0,0
+z,344,Musanga-type,Musanga/Myrianthus ,NA,p,0,1,0,0,0
+z,347,Myoporum,Scrophulariaceae,NA,p,0,1,1,0,0
+z,348,Myrianthus-type,Myrianthus holstii,NA,v,0,1,0,0,0
+z,350,Myriophyllum,NA,NA,remove,0,0,0,0,0
+z,352,Myrsine,Myrsine africana,NA,v,0,1,0,0,0
+z,353,Neoboutonia-type,Neoboutonia macrocalyx,NA,v,0,1,0,0,0
+z,354,Newtonia-type,Caesalpiniaceae,NA,p,0,1,0,0,0
+z,355,Noronhia,Oleaceae,NA,p,0,1,0,0,0
+z,357,Nuxia-type congesta,Nuxia/Ficalhoa,NA,v,0,1,0,0,0
+z,358,Nuxia-type verticillata,Nuxia/Ficalhoa,NA,v,0,1,0,0,0
+z,359,Nymphaea,NA,NA,remove,0,0,0,0,0
+z,361,Nymphoides,NA,NA,remove,0,0,0,0,0
+z,362,Nymphoides indica-type,NA,NA,remove,0,0,0,0,0
+z,363,Ochthocosmus,NA,NA,remove,0,0,0,0,0
+z,364,Ocimum-type basilicum,Lamiaceae undiff.,NA,v,0,1,1,0,0
+z,368,Olea capensis-type ssp. welwitschii,Olea capensis,NA,v,0,1,0,0,0
+z,369,Olea europaea-type ssp cuspidata,Olea europaea,NA,v,0,1,0,0,0
+z,371,Olinia,NA,NA,remove,0,0,0,0,0
+z,374,Operculicarya-type,Anacardiaceae undiff.,NA,v,0,1,1,0,0
+z,375,Ophioglossum,NA,NA,remove,0,0,0,0,0
+z,376,Orchidaceae undiff.,Monocotyledoneae undiff.,NA,v,0,1,1,1,0
+z,377,Ormocarpum-type,Ormocarpum trichocarpum,NA,p,0,0,0,0,0
+z,378,Osmunda,NA,NA,remove,0,0,0,0,0
+z,379,Osmundaceae undiff.,NA,NA,remove,0,0,0,0,0
+z,380,Otoglyphis-type pubescens,Asteraceae undiff.,NA,v,0,1,1,0,0
+z,381,Ottelia-type,NA,NA,remove,0,0,0,0,0
+z,382,Ouratea-type,Ochnaceae,NA,p,0,1,0,0,0
+z,383,Oxalidaceae undiff.,NA,NA,remove,0,0,0,0,0
+z,384,Oxalis,NA,NA,remove,0,0,0,0,0
+z,385,Oxygonum,NA,NA,remove,0,0,0,0,0
+z,386,Pachypodium,Apocynaceae undiff.,NA,v,0,1,1,0,0
+z,387,Pandanus,Pandanus candelabrum,NA,p,0,1,0,0,0
+z,388,Parkinsonia,Fabaceae undiff.,NA,v,0,1,1,0,0
+z,390,Pausinystalia-type,Pausinystalia-type macroceras,NA,p,0,1,0,0,0
+z,393,Pedaliaceae undiff.,NA,NA,remove,0,0,0,0,0
+z,394,Pediastrum,NA,NA,remove,0,0,0,0,0
+z,396,Penaeaceae undiff.,NA,NA,remove,0,0,0,0,0
+z,399,Pentas-type,Lamiaceae undiff.,NA,v,0,1,1,0,0
+z,401,Peristrophe-type,Peristrophe/Hypoestes ,NA,p,0,1,1,0,0
+z,402,Persicaria,NA,NA,remove,0,0,0,0,0
+z,403,Persicaria senegalensis-type,NA,NA,remove,0,0,0,0,0
+z,404,Peucedanum,Apiaceae undiff.,NA,v,0,1,1,0,0
+z,406,Phylica-type,Rhamnaceae undiff.,NA,v,0,1,1,0,0
+z,408,Phyllanthus-type amarus,Phyllanthus reticulatus,NA,v,0,1,1,0,0
+z,409,Phyllanthus-type fraternus,Phyllanthus muellerianus,NA,v,0,1,1,0,0
+z,413,Pilea-type bambuseti,Pilea bambuseti,NA,v,0,1,0,0,0
+z,415,Pimpinella-type,Apiaceae undiff.,NA,v,0,1,1,0,0
+z,420,Platycelyphium voense,Fabaceae undiff.,NA,v,0,1,1,0,0
+z,421,Plectranthus-type,Lamiaceae undiff.,NA,v,0,1,1,0,0
+z,422,Plumbaginaceae undiff.,NA,NA,remove,0,0,0,0,0
+z,425,Polycarpon-type,Polycarpon prostratum,NA,p,0,0,1,0,0
+z,426,Polygalaceae undiff.,Polygala,NA,p,0,1,1,0,0
+z,427,Polygonaceae undiff.,NA,NA,remove,0,0,0,0,0
+z,428,Polygonum,NA,NA,remove,0,0,0,0,0
+z,429,Polypodiaceae undiff.,NA,NA,remove,0,0,0,0,0
+z,430,Polypodium-type polypodioides,NA,NA,remove,0,0,0,0,0
+z,432,Portulaca-type,Portulacaceae undiff.,NA,v,0,1,1,0,0
+z,433,Potamogeton-type,NA,NA,remove,0,0,0,0,0
+z,434,Potamogeton-type nodosus,NA,NA,remove,0,0,0,0,0
+z,435,Pouteria-type,Sapotaceae undiff.,NA,v,0,1,1,0,0
+z,436,Premna-type,Lamiaceae undiff.,NA,v,0,1,1,0,0
+z,437,Priva,Verbenaceae undiff.,NA,v,0,1,1,0,0
+z,438,Prosopis-type,Entada/Prosopis/Piptadeniastrum ,NA,p,0,1,1,0,0
+z,439,Proteaceae undiff.,Protea,NA,v,0,1,0,0,0
+z,440,Protium obtusifolium-type,Burseraceae undiff.,NA,p,0,1,1,0,0
+z,441,Prunus,Prunus africana,NA,v,0,1,0,0,0
+z,442,Pseudoschizaea,NA,NA,remove,0,0,0,0,0
+z,443,Psilotrichum-type,Psilotrichum elliottii,NA,v,0,1,1,0,0
+z,444,Psiloxylon-type mauritianum,Myrtaceae undiff.,NA,v,0,1,0,0,0
+z,446,Ptaeroxylon obliquum ,Rutaceae undiff.,NA,v,0,1,1,0,0
+z,447,Pteridium-type,NA,NA,remove,0,0,0,0,0
+z,448,Pteridium-type aquilinum,NA,NA,remove,0,0,0,0,0
+z,449,Pteridophyta undiff.,NA,NA,remove,0,0,0,0,0
+z,450,Pteris-type,NA,NA,remove,0,0,0,0,0
+z,451,Pteris-type vittata,NA,NA,remove,0,0,0,0,0
+z,453,Pulicaria,Asteraceae undiff.,NA,v,0,1,1,0,0
+z,458,Ravenea-type,Palmae,NA,p,0,1,1,1,0
+z,459,Restio,Restionaceae,NA,p,0,0,0,0,0
+z,461,Rhamnus-type,Rhamnaceae undiff.,NA,v,0,1,1,0,0
+z,464,Rhopalopilia,NA,NA,remove,0,0,0,0,0
+z,465,Riccia,NA,NA,remove,0,0,0,0,0
+z,466,Rorippa-type insularis,Brassicaceae undiff.,NA,v,0,1,1,0,0
+z,468,Rubus,Rubus pinnatus,NA,v,0,1,0,0,0
+z,472,Sagittaria-type guayanensis,NA,NA,remove,0,0,0,0,0
+z,473,Salacia,Salacia senegalensis,NA,p,0,0,0,0,0
+z,474,Salicornia-type,Amaranthaceae/Chenopodiaceae undiff.,NA,v,0,1,1,1,0
+z,477,Santalaceae undiff.,NA,NA,remove,0,0,0,0,0
+z,478,Santiria-type trimera,Santiria,NA,p,0,1,0,0,0
+z,479,Sapium-type,Sapium ellipticum,NA,p,0,1,0,0,0
+z,482,Schizaeaceae undiff.,NA,NA,remove,0,0,0,0,0
+z,483,Schrebera,Oleaceae,NA,p,0,1,0,0,0
+z,486,Scorodophloeus-type zenkeri,Scorodophloeus-type zenkeri,NA,,0,1,0,0,0
+z,489,Searsia-type natalensis,Searsia/Anthrocaryon/Pseudospondias ,NA,p,0,1,1,1,0
+z,490,Selaginella,NA,NA,remove,0,0,0,0,0
+z,491,Senecioneae undiff.,Asteraceae undiff.,NA,v,0,1,1,0,0
+z,492,Sericocomopsis-type,Amaranthaceae/Chenopodiaceae undiff.,NA,v,0,1,1,1,0
+z,494,Sida,Malvaceae undiff.,NA,v,0,1,1,0,0
+z,495,Sideroxylon-type,Sapotaceae undiff.,NA,v,0,1,1,0,0
+z,496,Sideroxylon-type sessiliflorum,Sapotaceae undiff.,NA,v,0,1,1,0,0
+z,497,Silene-type,Silene burchellii,NA,v,0,0,0,0,0
+z,499,Solanecio-type mannii,Solanecio mannii,NA,v,0,1,0,0,0
+z,500,Sonneratia alba,NA,NA,remove,0,0,0,0,0
+z,504,Sphagnum,NA,NA,remove,0,0,0,0,0
+z,506,Spondianthus-type preussii,Euphorbiaceae undiff.,NA,v,0,1,1,0,0
+z,507,Stachyothyrsus,Fabaceae undiff.,NA,v,0,1,1,0,0
+z,508,Stadmania,Sapindaceae undiff.,NA,v,0,1,1,0,0
+z,509,Staurogyne,Acanthaceae undiff.,NA,v,0,1,1,0,0
+z,510,Stellaria mannii-type,Acanthaceae undiff.,NA,v,0,1,1,0,0
+z,511,Stemodia-type serrata,Scrophulariaceae,NA,p,0,1,1,0,0
+z,512,Stephania-type,Stephania abyssinica,NA,v,0,1,1,0,0
+z,516,Streptocarpus,NA,NA,remove,0,0,0,0,0
+z,517,Striga-type,Orobanche,NA,p,0,0,1,0,0
+z,521,Subularia monticola,Brassicaceae undiff.,NA,v,0,1,0,0,0
+z,522,Swertia-type abyssinica,Swertia kilimandscharica,NA,v,0,0,0,0,0
+z,524,Tambourissa purpurea-type,NA,NA,remove,0,0,0,0,0
+z,525,Tapura fischeri-type,NA,NA,remove,0,0,0,0,0
+z,527,Tarenna-type,Tarenna graveolens,NA,v,0,0,1,0,0
+z,528,Telephium oligospermum,Caryophyllaceae undiff.,NA,v,0,1,1,1,0
+z,531,Terminalia-type bentzoe,Terminalia-type,NA,p,0,1,1,0,0
+z,534,Tetradenia,Lamiaceae undiff.,NA,v,0,1,1,0,0
+z,536,Tetraploa ,NA,NA,remove,0,0,0,0,0
+z,537,Thecacoris-type,Phyllanthaceae,NA,p,0,1,1,1,0
+z,542,Trichocladus,Trichocladus ellipticus,NA,v,0,1,0,0,0
+z,544,Triglochin,NA,NA,remove,0,0,0,0,0
+z,545,Triletes undiff.,NA,NA,remove,0,0,0,0,0
+z,547,Tristellateia-type,Malpighiaceae,NA,p,0,1,1,0,0
+z,549,Tulbaghia,Monocot,NA,p,0,1,1,1,0
+z,550,Typha-type,NA,NA,remove,0,0,0,0,0
+z,552,Uapaca staudtii-type,Uapaca,NA,v,0,1,0,0,0
+z,555,Urtica-type,Urticaceae undiff.,NA,,0,1,1,0,0
+z,557,Utricularia,NA,NA,remove,0,0,0,0,0
+z,558,Valeriana,NA,NA,remove,0,0,0,0,0
+z,561,Vernonia-type,Vernonia perrottetii,NA,v,0,1,1,0,0
+z,562,Vitellaria-type paradoxa,Sapotaceae undiff.,NA,v,0,1,1,0,0
+z,564,Weinmannia,NA,NA,remove,0,0,0,0,0
+z,565,Withania-type somnifera,Solanaceae,NA,p,0,1,1,1,0
+z,566,Xanthium-type,Asteraceae undiff.,NA,v,0,1,1,0,0
+z,567,Xerophyta,NA,NA,remove,0,0,0,0,0
+z,568,Xymalos,NA,NA,remove,0,0,0,0,0
+z,569,Xyris,NA,NA,remove,0,0,0,0,0
+z,570,Zanthoxylum-type gilletii,Zanthoxylum,NA,,0,1,1,0,0
+z,571,Zanthoxylum-type zanthoxyloides,Zanthoxylum,NA,,0,1,1,0,0
+z,572,Zea mays,Poaceae undiff.,NA,,0,0,0,0,1
+z,573,Ziziphus-type,Rhamnaceae undiff.,NA,,0,1,1,0,0
+z,574,Zostera,NA,NA,remove,0,0,0,0,0
+z,575,Zygophyllaceae undiff.,Zygophyllum,NA,,0,0,1,1,0
+z,,Mansonia altissima-type,Mansonia altissima-type,,p,0,1,0,0,0
+z,,Raphiostylis,Raphiostylis,,p,0,1,0,0,0
+z,,Senna-type italica,Cassia italica,,v,0,0,1,0,0
+z,,Harungana madagascariensis-type,Harungana madagascariensis,,p,0,1,0,0,0
+z,,Cola-type,Cola cordifolia-type,,p,0,1,0,0,0
+z,,Clerodendrum,Clerodendrum,,p,0,1,1,0,0
+z,,Gladiolus-type,Monocot,,p,0,1,1,1,0
+z,,Theaceae undiff.,,,remove,0,0,0,0,0
+z,,Sclerochiton,Acanthaceae undiff.,,v,0,1,1,0,0
+z,,Pseudospondias-type microcarpa,Pseudospondias-type microcarpa,,p,0,0,0,0,0
+z,,Salvinia,,,remove,0,0,0,0,0
+z,,Gorteria-type beguinotii,Asteraceae undiff.,,v,0,1,1,0,0
+z,,Flabellariopsis acuminata,,,remove,0,0,0,0,0
+z,,Pentadesma,Pentadesma,,p,0,1,0,0,0
+z,,Pterocarpus-type lucens,Pterocarpus-type lucens,,v,0,1,1,0,0
+z,,Aidia-type micrantha,Aidia-type micrantha,,v,0,1,0,0,0
+z,,Gyrocarpus,,,remove,0,0,0,0,0
+z,,Maesopsis eminii,Rhamnaceae undiff.,,v,0,1,1,0,0
+z,,Synsepalum-type,Sapotaceae undiff.,,v,0,1,1,0,0
+z,,Parkia,Parkia,,p,0,1,1,0,0
+z,,Cerastium afromontanum-type,Cerastium afromontanum-type,,v,0,0,0,0,0
+z,,Swertia-type kilimandscharica,Swertia-type kilimandscharica,,v,0,0,0,0,0
+z,,Micrococca-type mercurialis,Micrococca-type mercurialis,,v,0,1,1,0,0
+p,,Acrostichum aureum,Acrostichum aureum,Pteridaceae,p,0,0,0,0,0
+p,,Adenia lobata-type,Adenia lobata-type,Passifloraceae,p,0,0,0,0,0
+p,,Alchornea cordifolia-type,Alchornea cordifolia-type,Euphorbiaceae,p,0,0,0,0,0
+p,,Annona senegalensis-type,Annonaceae undiff.,Annonaceae,p,0,1,1,0,0
+p,,Annonaceae undiff.,Annonaceae undiff.,Annonaceae,p,0,1,1,0,0
+p,,Anthocleista vogelii-type,Anthocleista vogelii-type,Gentianaceae,p,0,0,0,0,0
+p,,Anthostema-type senegalense,Anthostema-type,Euphorbiaceae,p,0,1,0,0,0
+p,,Araceae undiff.,Araceae undiff.,Araceae,p,0,1,1,0,0
+p,,Badula,Myrsinaceae undiff.,Primulaceae,p,0,1,1,0,0
+p,,Calamus deerratus,Calamus deerratus,Arecaceae,p,0,1,0,0,0
+p,,Canarium-type schweinfurthii,Canarium-type,Burseraceae,p,0,1,0,0,0
+p,,Celtis toka-type,Celtis toka-type,Cannabaceae,p,0,0,0,0,0
+p,,Chassalia,Chassalia,Rubiaceae,p,0,1,0,0,0
+p,,Cnestis-type ferruginea,Connaraceae undiff.,Connaraceae,p,0,1,1,0,0
+p,,Cocos nucifera,Cocos nucifera,Arecaceae,p,0,1,0,0,0
+p,,Cordia/Hilsenbergia,Cordia,Boraginaceae,p,0,1,1,0,0
+p,,Crassula granvikii-type,Crassulaceae undiff.,Crassulaceae,p,0,0,1,1,0
+p,,Crudia-type,Crudia-type,Leguminosae,p,0,1,0,0,0
+p,,Cuviera,Cuviera,Rubiaceae,p,0,1,0,0,0
+p,,Dasylepis,Cadaba-type,Achariaceae,p,0,1,1,0,0
+p,,Deinbollia-type,Deinbollia-type,Sapindaceae,p,0,1,1,0,0
+p,,Desmodium,Desmodium,Leguminosae,p,0,1,1,0,0
+p,,Erythroxylum,Erythroxylum ,Erythroxylaceae,p,0,1,1,0,0
+p,,Gilbertiodendron-type,Gilbertiodendron-type,Leguminosae,p,0,1,0,0,0
+p,,Gymnosporia-type senegalensis,Gymnosporia-type senegalensis,Celastraceae,p,0,1,1,0,0
+p,,Hymenocardia ulmoides-type,Hymenocardia ulmoides-type,Phyllanthaceae,p,0,1,0,0,0
+p,,Laurembergia repens subsp. brachypoda,Laurembergia tetrandra,Haloragaceae,p,0,1,0,0,0
+p,,Lecaniodiscus-type,Lecaniodiscus-type,Sapindaceae,p,0,1,0,0,0
+p,,Leea guineensis,Leea guineensis,Vitaceae,p,0,1,0,0,0
+p,,Lobelia anceps-type,Lobelia,Campanulaceae,p,0,0,1,0,0
+p,,Lonchocarpus sericeus-type,Lonchocarpus,Leguminosae,p,0,1,1,1,0
+p,,Machaerium-type lunatum,Machaerium-type lunatum,Leguminosae,p,0,1,1,0,0
+p,,Macrosphyra-type,Macrosphyra-type,Rubiaceae,p,0,0,1,0,0
+p,,Mezoneuron-type,Fabaceae undiff.,Leguminosae,p,0,1,1,0,0
+p,,Milicia-type,Milicia-type,Moraceae,p,0,1,0,0,0
+p,,Millettia-type,Fabaceae undiff.,Leguminosae,p,0,1,1,0,0
+p,,Nauclea-type,Nauclea-type,Rubiaceae,p,0,1,1,0,0
+p,,Pancovia-type,Pancovia-type,Sapindaceae,p,0,1,0,0,0
+p,,Pinaceae undiff.,Pinus,Pinaceae,p,0,1,0,0,0
+p,,Pinus canariensis-type,Pinus,Pinaceae,p,0,1,0,0,0
+p,,Psydrax-type subcordata,Psydrax-type subcordata,Rubiaceae,p,0,1,0,0,0
+p,,Quercus robur-type,Quercus,Fagaceae,p,1,1,0,0,0
+p,,Raphia vinifera-type,Raphia,Arecaceae,p,0,1,0,0,0
+p,,Rhizophora racemosa-type,Rhizophora racemosa-type,Rhizophoraceae,p,0,0,0,0,0
+p,,Rhizophoraceae undiff.,Rhizophora,Rhizophoraceae,p,0,0,0,0,0
+p,,Sanguisorba,Rosaceae undiff.,Rosaceae,p,0,1,1,1,0
+p,,Spathodea-type campanulata,Spathodea-type campanulata,Bignoniaceae,p,0,0,0,0,0
+p,,Stachytarpheta,Stachytarpheta,Verbenaceae,p,0,1,1,0,0
+p,,Syzygium-type guineense,Syzygium-type guineense,Myrtaceae,p,0,0,0,0,0
+p,,Trichoscypha-type acuminata,Trichoscypha-type,Anacardiaceae,p,0,1,0,0,0
+p,,Trichoscypha/Sclerocarya,Trichoscypha-type,Anacardiaceae,p,0,1,0,0,0
+p,,Uapaca heudelotii-type,Uapaca heudelotii-type,Phyllanthaceae,p,0,1,0,0,0
+p,,Uvaria,Annonaceae undiff.,Annonaceae,p,0,1,1,0,0
+p,,Vitex-type doniana,Vitex-type doniana,Lamiaceae,p,0,0,0,0,0
+p,,Wahlenbergia-type,Campanulaceae undiff.,Campanulaceae,p,0,1,1,0,0
+p,,Widdringtonia-type,Cupressaceae undiff.,Cupressaceae,p,0,0,0,0,0
+p,,Ximenia americana-type,Olacaceae undiff.,Olacaceae,p,0,1,0,0,0
+v,,Aeschynomene,Aeschynomene baumii-type,Fabaceae,v,0,1,1,0,0
+v,,Afzelia africana-type,Fabaceae undiff.,Fabaceae,v,0,1,1,0,0
+v,,Alafia-type,Apocynaceae undiff.,Apocynaceae,v,0,1,1,0,0
+v,,Allophylus africanus-type,Allophylus,Sapindaceae,v,0,1,1,0,0
+v,,Allophylus/Protea,Allophylus,Sapindaceae,v,0,1,1,0,0
+v,,Anacardium occidentale,Anacardiaceae undiff.,Anacardiaceae,v,0,1,1,0,0
+v,,Angelium,Apiaceae undiff.,Apiaceae,v,0,1,1,0,0
+v,,Aubrevillea,Fabaceae undiff.,Fabaceae,v,0,1,1,0,0
+v,,Barleria,Barleria,Acanthaceae,v,0,1,1,0,0
+v,,Basilicum-type polystachyon,Lamiaceae undiff.,Lamiaceae,v,0,1,1,0,0
+v,,Buchnera-type,Buchnera-type,Scrophulariaceae,v,0,1,1,0,0
+v,,Buxus madagascarica-type,Buxus madagascarica-type,Buxaceae,v,0,1,1,0,0
+v,,Cardiospermum halicacabum-type,Cardiospermum halicacabum-type,Sapindaceae,v,0,1,1,0,0
+v,,Cerastium-type octandrum,Cerastium-type octandrum,Caryophyllaceae,v,0,0,0,0,0
+v,,Clappertonia ficifolia-type,Malvaceae undiff.,Malvaceae,v,0,1,1,0,0
+v,,Commelina-type forsskaolii,Commelina-type forsskaolii,Commelinaceae,v,0,0,1,0,0
+v,,Corchorus-type fascicularis,Corchorus-type fascicularis,Tiliaceae,v,0,0,1,0,0
+v,,Cressa-type cretica,Convolvulaceae undiff.,Convolvulaceae,v,0,1,1,0,0
+v,,Eucalyptus-type,Myrtaceae undiff.,Myrtaceae undiff.,v,0,1,1,0,0
+v,,Evolvulus-type,Evolvulus-type,Convolvulaceae,v,0,1,1,0,0
+v,,Fadogia-type,Rubiaceae undiff.,Rubiaceae,v,0,1,1,0,0
+v,,Hibiscus fragilis-type,Hibiscus,Malvaceae,v,0,1,1,0,0
+v,,Holarrhena-type,Apocynaceae undiff.,Apocynaceae undiff.,v,0,1,1,0,0
+v,,Keetia-type,Keetia-type gueinzii,Rubiaceae,v,0,1,0,0,0
+v,,Laguncularia racemosa,Combretaceae undiff.,Combretaceae,v,0,1,1,0,0
+v,,Laportea-type aestuans,Laportea-type aestuans,Urticaceae,v,0,1,0,0,0
+v,,Leucocoryne,Monocotyledoneae undiff.,Monocotyledoneae,v,0,1,1,1,0
+v,,Luffa-type cylindrica,Luffa-type cylindrica,Cucurbitaceae,v,0,1,1,0,0
+v,,Lychnophora,Vernonieae undiff.,Asteraceae,v,0,1,1,0,0
+v,,Mansonia,Malvaceae undiff.,Malvaceae,v,0,1,1,0,0
+v,,Mitragyna-type ledermannii,Rubiaceae undiff.,Rubiaceae,v,0,1,1,0,0
+v,,Momordica-type,Cucurbitaceae undiff.,Cucurbitaceae,v,0,1,1,0,0
+v,,Morella faya,Morella,Myricaceae,v,0,1,0,0,0
+v,,Nelsonia canescens,Acanthaceae undiff.,Acanthaceae,v,0,1,1,0,0
+v,,Neoboutonia-type macrocalyx,Neoboutonia-type macrocalyx,Euphorbiaceae,v,0,1,0,0,0
+v,,Persicaria madagascariensis-type,Rumex,Polygonaceae,v,0,1,1,0,0
+v,,Plantago africana-type,Plantago africana-type,Plantaginaceae,v,0,1,0,0,0
+v,,Polydora-type angustifolia,Vernonieae undiff.,Asteraceae,v,0,1,1,0,0
+v,,Premna-type serratifolia,Lamiaceae undiff.,Lamiaceae,v,0,1,1,0,0
+v,,Ranunculus acris-type,Ranunculaceae undiff.,Ranunculaceae,v,0,1,1,0,0
+v,,Sansevieria,Monocotyledoneae undiff.,Monocotyledoneae,v,0,1,1,1,0
+v,,Sarcocephalus-type latifolius,Rubiaceae undiff.,Rubiaceae,v,0,1,1,0,0
+v,,Spondias monbin-type,Anacardiaceae undiff.,Anacardiaceae,v,0,1,1,0,0
+v,,Strophanthus-type,Apocynaceae undiff.,Apocynaceae,v,0,1,1,0,0
+v,,Tarchonanthus-type camphoratus,Tarchonanthus-type camphoratus,Asteraceae,v,0,1,0,0,0
+v,,Uapaca mole-type,Uapaca,Euphorbiaceae,v,0,1,0,0,0
+v,,Uncaria-type,Uncaria-type africana,Rubiaceae,v,0,1,0,0,0
+v,,Vepris-type dainellii,Vepris-type dainellii,Rutaceae,v,0,1,0,0,0
+v,,Veronica,Plantago,Plantaginaceae,v,0,1,1,1,0
+z,,Casuarina equisetifolia-type,Casuarina equisetifolia-type,Casuarinaceae,z,0,1,1,0,0
+z,,Ceratopteris cornuta,,Pteridophyta,remove,0,0,0,0,0
+z,,Cercophora,,Fungi,remove,0,0,0,0,0
+z,,Crinum natans-type,,,remove,0,0,0,0,0
+z,,Curculigo,,,remove,0,0,0,0,0
+z,,Diporotheca,,,remove,0,0,0,0,0
+z,,Droseraceae undiff.,,,remove,0,0,0,0,0
+z,,Erythroxylaceae undiff.,,,z,0,1,1,0,0
+z,,Flacourtia,,,z,0,1,1,0,0
+z,,Gelasinospora,,,remove,0,0,0,0,0
+z,,Napoleonaea-type,,,remove,0,0,0,0,0
+z,,Ochna,,,remove,0,0,0,0,0
+z,,Osmunda regalis,,,remove,0,0,0,0,0
+z,,Rorippa-type,,remove,,0,0,0,0,0
+z,,Ruppia maritima,,remove,,0,0,0,0,0
+z,,Salicaceae undiff.,,,z,0,1,1,0,0
+z,,Scolopia-type,Salicaceae undiff.,Salicaceae undiff.,z,0,1,1,0,0
+z,,Sordariaceae undiff.,,remove,,0,0,0,0,0
+z,,Sporormiella,,remove,,0,0,0,0,0
+z,,Tapura,,remove,,0,0,0,0,0
+,6,Acrostichum,Acrostichum aureum,Pteridaceae,p,0,0,0,0,0
+,14,Alnus,Alnus,Betulaceae,p,1,0,0,0,0
+,34,Asphodelus,Asphodelus,Xanthorrhoeaceae,p,0,0,0,0,0
+,61,Centroplacus glaucinus,Centroplacus glaucinus,Centroplacaceae,p,0,1,0,0,0
+,65,Chironia-type,Gentianaceae,Gentianaceae,p,0,1,1,0,0
+,83,Copaifera-type,Cassia/Cynometra/Erythropheum/Copaifera/Monopetalanthus ,Leguminosae,p,0,1,1,1,0
+,95,Dalbergia,Dalbergia,Leguminosae,p,0,1,1,1,0
+,96,Daniellia pyrnaertii-type,Daniella,Leguminosae,p,0,1,1,0,0
+,142,Homalium ,Casearia,Salicaceae,p,0,1,0,0,0
+,164,Kniphofia-type,Asphodelus,Xanthorrhoeaceae,p,0,0,0,0,0
+,165,Kniphofia-type reflexa,Asphodelus,Xanthorrhoeaceae,p,0,0,0,0,0
+,218,Pacourina-type,Pacourina,Apocynaceae,p,0,0,0,0,0
+,226,Peltophorum,Peltophorum,Leguminosae,p,0,1,1,0,0
+,228,Pentodon-type pentandrus,Pentodon pentandrus,Rubiaceae,p,0,1,0,0,0
+,236,Phytolaccaceae undiff.,Phytolacca,Phytolaccaceae,p,0,1,1,0,0
+,252,Primulaceae undiff.,Myrsinaceae,Primulaceae,p,0,1,1,0,0
+,286,Scadoxus-type,Scadoxus,Amaryllidaceae,p,0,1,1,0,0
+,291,Senecio-type,Dendrosenecio,Compositae,p,0,0,1,0,0
+,301,Staavia,Bruniaceae,Bruniaceae,p,0,0,0,0,0
+,307,Sutera,Scrophulariaceae,Scrophulariaceae,p,0,1,1,1,0
+,316,Tetrapleura,Tetrapleura ,Leguminosae,p,0,1,0,0,0
+,91,Cyathea manniana-type,NA,NA,remove,0,0,0,0,0
+,92,Cyclosorus-type,NA,NA,remove,0,0,0,0,0
+,125,Fumaria abyssinica-type,NA,NA,remove,0,0,0,0,0
+,234,Phragmites,NA,NA,remove,0,0,0,0,0
+,262,Pteris-type pteridioides,NA,NA,remove,0,0,0,0,0
+,298,Sphenoclea,NA,NA,remove,0,0,0,0,0
+,299,Spirogyra,NA,NA,remove,0,0,0,0,0
+,2,Abrus,Fabaceae undiff.,Fabaceae,v,0,1,1,0,0
+,38,Berkheya,Asteraceae undiff.,Asteraceae,v,0,1,1,0,0
+,40,Blepharispermum-type,Asteraceae undiff.,Asteraceae,v,0,1,1,0,0
+,46,Brunsvigia-type,Monocotyledoneae undiff.,Monocotyl,v,0,1,1,1,0
+,48,Buddleja,Buddleja,Loganiaceae,v,0,1,1,0,0
+,54,Carpacoce,Rubiaceae undiff.,Rubiaceae,v,0,1,1,0,0
+,82,Convolvulaceae/Malvaceae undiff.,Malvaceae undiff.,Malvaceae/Convolvulaceae,v,0,1,1,0,0
+,86,Crinum,Monocotyledoneae undiff.,Monocotyl,v,0,1,1,1,0
+,100,Dicoma,Asteraceae undiff.,Asteraceae,v,0,1,1,0,0
+,105,Echinops,Asteraceae undiff.,Asteraceae,v,0,1,1,0,0
+,108,Emilia-type,Asteraceae undiff.,Asteraceae,v,0,1,1,0,0
+,117,Eucomis,Asparagus,Asparagaceae,v,0,1,1,0,0
+,129,Garcinia,Garcinia,Clusiaceae,v,0,1,1,0,0
+,132,Gladiolus-type watsonii,Monocotyledoneae undiff.,Monocotyl,v,0,1,1,1,0
+,133,Glyphaea brevis,Malvaceae undiff.,Malvaceae,v,0,1,1,0,0
+,134,Gnidia-type glauca,Gnidia chrysantha,Thymelaeaceae,v,0,1,1,0,0
+,136,Greyia,Bersama abyssinica,Melianthaceae,v,0,1,0,0,0
+,156,Jatropha-type,Jatropha,Euphorbiaceae,v,0,0,1,0,0
+,179,Maclura-type africana,Moraceae undiff.,Moraceae,v,0,1,1,0,0
+,208,Ochradenus-type,Resedaceae undiff.,Resedaceae,v,0,0,1,1,0
+,230,Peperomia,Monocotyledoneae undiff.,Monocotyl,v,0,1,1,1,0
+,238,Piper,Monocotyledoneae undiff.,Monocotyl,v,0,1,1,1,0
+,289,Scutia-type,Rhamnaceae undiff.,Rhamnaceae,v,0,1,1,0,0
+,302,Steganotaenia-type araliacea,Steganotaenia,Apiaceae,v,0,1,1,0,0
+,311,Syzygium-type staudtii,Syzygium,Myrtaceae,v,0,1,1,0,0
+,322,Trifolium-type,Trifolium acaule,Fabaceae,v,0,0,0,0,0
+,337,Watsonia-type,Monocotyledoneae undiff.,Monocotyl,v,0,1,1,1,0

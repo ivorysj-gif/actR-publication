@@ -1,0 +1,4 @@
+package,version,repository,commit
+lipdR,0.6.0,nickmckay/lipdR,fe07a10e9749c0fed180a7e1295df76ffb8c26b5
+geoChronR,1.1.17,nickmckay/geoChronR,fb3290793325ef76ac45888707573560a4b88548
+actR,0.2.2,LinkedEarth/actR,5cdeba2cc8438401f6ccb48348f1137ac7dc8418
