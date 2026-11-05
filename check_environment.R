@@ -1,0 +1,8 @@
+if(!exists('PUB_ROOT'))source('config.R')
+core<-c('neotoma2','lipdR','geoChronR','actR','changepoint','dplyr','tidyr','purrr','mgcv','ggplot2','terra','pcaMethods')
+tab<-data.frame(package=core,installed=vapply(core,requireNamespace,TRUE,quietly=TRUE))
+tab$version<-vapply(core,function(x)if(requireNamespace(x,quietly=TRUE))as.character(packageVersion(x)) else NA_character_,'')
+write.csv(tab,file.path(OUT,'logs/dependency_check.csv'),row.names=FALSE);print(tab)
+if(any(!tab$installed))stop('Some dependencies are missing; see README and dependency_check.csv')
+stopifnot(length(IDS)==130,length(read_shifts()$ids)==130)
+log_session('environment')

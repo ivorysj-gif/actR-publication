@@ -1,0 +1,8 @@
+outputs/
+saved_results/
+reference_originals/
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.zip
