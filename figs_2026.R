@@ -1,6 +1,7 @@
 # Paper figure panels: PCA, all-record abrupt changes, and curated event types.
 if(!exists('PUB_ROOT'))source('config.R')
 need(c('geoChronR','lipdR','ggplot2','mgcv'))
+if(MODE=='recompute' && !all(file.exists(file.path(OUT,'step4',c('pc_results_20k_500.RData','shifts_by_id.rds')))))stop('The figures task needs both PCA and detector results. A shifts-only pilot does not produce the complete figure inputs.')
 library(ggplot2)
 pca<-read_pca();pcout2<-pca$pcout2;TS.filtered2<-pca$TS.filtered2
 s<-read_shifts()
@@ -38,7 +39,7 @@ if(MODE=='saved'){
   for(variable in c('rise','decline','abruptloss','gradloss')){
    term<-if(group=='negative'||variable=='gradloss')'s(times,k=6,sp=0)' else if(variable=='decline')"s(times,bs='cr')" else 's(times)'
    f<-as.formula(paste(variable,'~',term));m<-mgcv::gam(f,data=dat)
-   # Original figure plots the centered smooth with partial residuals and +/-1 SE.
+   # Original plot() extraction supplies centered smooths, partial residuals and +/-2 SE.
    tmp<-tempfile(fileext='.pdf');pdf(tmp);po<-plot(m,residuals=TRUE)[[1]];dev.off();unlink(tmp)
    sm<-data.frame(time=as.numeric(po$x),fit=as.numeric(po$fit),se=as.numeric(po$se))
    raw<-data.frame(time=as.numeric(po$raw),value=as.numeric(po$p.resid))

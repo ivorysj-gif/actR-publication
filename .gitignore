@@ -6,3 +6,6 @@ reference_originals/
 .Ruserdata
 .Rproj.user/
 *.zip
+.R-library/
+validation/execution/
+execution_*.log

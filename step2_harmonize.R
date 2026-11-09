@@ -1,5 +1,6 @@
 # Step 2: compare pollen names against the supplied nomenclature master.
 if(!exists('PUB_ROOT'))source('config.R')
+preflight_outputs(file.path(OUT,'step2',c('taxon_lookup.rds','master_mapping_audit.csv','taxon_review.csv')))
 master<-read.csv(file.path(ANC,'APD_taxon_list_2024.csv'),check.names=TRUE)
 lookup<-data.frame(variablename=master$ORIGINAL.NAMES,real_names=master$REVISED.NOMENCLATURE..2022.)
 # Original distinct(variablename, .keep_all=TRUE) policy, explicitly recorded.

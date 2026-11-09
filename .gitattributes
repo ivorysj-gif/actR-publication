@@ -1,7 +1,6 @@
-* text=auto
+# Preserve distributed input bytes; normalize executable R scripts only.
+* -text
 *.R text eol=lf
-*.md text eol=lf
-*.csv text eol=lf
 *.rds binary
 *.RData binary
 *.xlsx binary

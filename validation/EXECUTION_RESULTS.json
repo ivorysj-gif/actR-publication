@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-09",
+  "base_commit": "be96f750afe02bdcda3887463a4a38b365b13952",
+  "platform": "Windows",
+  "R": "4.5.2",
+  "clean_checkout": true,
+  "empty_R_installation": false,
+  "public_download_helper_passed": true,
+  "checks": [
+    "16 R scripts parse",
+    "Output-conflict guard preserves existing file",
+    "Changed run IDs rejected",
+    "Fresh three-ID environment check works without Step 4 outputs",
+    "Mismatched record ID rejected",
+    "Five saved figure data tables match bundled values",
+    "8 saved group GAM predictions match",
+    "42 nonempty PNG/SVG panels present"
+  ],
+  "pilot_checks": [
+    "Three-record local pilot completed Steps 1-4 with detector-only Step 4",
+    "All output IDs and prepared dimensions validated",
+    "Repeating each computational stage refused before overwriting or fitting",
+    "Pilot output fingerprints unchanged by conflict tests"
+  ],
+  "preserved_bundle_files": 211,
+  "preserved_ancillary_files": 16,
+  "remote_updated": false
+}

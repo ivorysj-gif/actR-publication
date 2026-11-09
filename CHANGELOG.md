@@ -1,5 +1,16 @@
 # Changes from the supplied scripts
 
+## Execution-only revision — 9 November 2026
+
+- Added the public saved-bundle URL, checksum verification, non-overwriting extraction helper, and separate terminal/RStudio walkthroughs.
+- Default regenerated figures now go to `outputs/reproduced/`, preserving the bundled previews under `outputs/publication/`.
+- Added a project-local library for missing dependencies, explicit dependency scopes and installed-source reporting; no full lockfile or empty-machine install is claimed.
+- Fresh environment checks no longer require completed Step 4 outputs. Added early output-conflict checks, run-configuration checks and record-ID validation. Forest series are extracted per record to preserve their association with input IDs.
+- Spatial cache files now record their input/settings fingerprint. Existing incompatible cache formats are rejected rather than silently reused.
+- NDVI rebuild uses the listed 12 input filenames. Figure prerequisite messages explain detector-only pilot limitations.
+- Corrected documentation of the existing category-panel +/-2-SE bands and the distinct continental/group gradual-loss rounding conventions. No analytical formula, threshold, classification or historical output was changed.
+- Git attributes preserve ancillary-file bytes rather than creating line-ending-only changes on checkout. See `validation/EXECUTION_REVIEW_2026-11-09.md` for execution evidence and limitations. `PACKAGE_MANIFEST.csv` describes the original distributed package, not this revision's changed code.
+
 ## Technical cleanup
 
 - Kept the named step sequence and separate figure/site/map/spatial scripts. Removed interactive resume positions, repeated workspace clearing, obsolete experiments and personal paths from executable copies. Original sources are archived unchanged.

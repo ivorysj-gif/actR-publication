@@ -1,0 +1,12 @@
+# Test safe extraction into an empty directory using the verified downloaded archive.
+root<-normalizePath(getwd(),winslash='/');source('config.R')
+target<-file.path(root,'validation/execution/bundle_extract');dir.create(file.path(target,'ancillary'),recursive=TRUE,showWarnings=FALSE)
+file.copy('ancillary/package_sources.csv',file.path(target,'ancillary/package_sources.csv'),overwrite=FALSE)
+if(!file.exists(file.path(target,'actR-saved-results.zip')))file.copy('actR-saved-results.zip',file.path(target,'actR-saved-results.zip'))
+setwd(target)
+source(file.path(root,'download_saved_results.R'))
+stopifnot(file.exists('saved_results/pc_results_20k_500.RData'))
+msg<-tryCatch({source(file.path(root,'download_saved_results.R'));''},error=function(e)conditionMessage(e))
+stopifnot(grepl('destinations already exist',msg,fixed=TRUE))
+setwd(root)
+writeLines(c('Verified archive extracted successfully in a clean target','Repeat extraction refused without overwriting files'), 'validation/execution/bundle_checks.txt')
