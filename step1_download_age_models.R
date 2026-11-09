@@ -1,11 +1,12 @@
 # Step 1: Neotoma download, count extraction and age-model preparation.
 if(!exists('PUB_ROOT'))source('config.R')
+preflight_outputs(vapply(PROCESS_IDS,function(id)record_path(1,id),''))
 need(c('neotoma2','lipdR','geoChronR'))
 LOCAL_STEP1 <- Sys.getenv('ACTR_LOCAL_STEP1','')
 RUN_BACON <- identical(Sys.getenv('ACTR_RUN_BACON','false'),'true')
 if(RUN_BACON)need('rbacon')
 for(id in PROCESS_IDS){
- dest<-record_path(1,id);if(file.exists(dest)){message('Already prepared: ',id);next}
+ dest<-record_path(1,id)
  if(nzchar(LOCAL_STEP1)){
   files<-list.files(LOCAL_STEP1,paste0(id,'\\.RData$'),full.names=TRUE);if(length(files)!=1)stop('Expected one local Step 1 file for ',id)
   e<-read_env(files);needed<-c('L_lip','my_counts','ageEnsemble');stopifnot(all(needed%in%ls(e)))

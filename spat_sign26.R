@@ -1,9 +1,10 @@
 # Supplementary spatial analysis. This original branch uses PELT, independently
 # of the main AMOC synthesis. Saved events are supplied to avoid recomputation.
 if(!exists('PUB_ROOT'))source('config.R')
-need(c('actR','purrr','dplyr','ggplot2','patchwork'));library(ggplot2)
+need(c('actR','purrr','dplyr','ggplot2','patchwork','digest'));library(ggplot2)
 recompute<-identical(Sys.getenv('ACTR_SPATIAL_RECOMPUTE','false'),'true')
 if(recompute){
+ preflight_outputs(file.path(OUT,'spatial/recomputed_events.rds'))
  e<-read_env(file.path(SAVED,'tp.RData'));tp<-e$tp
  good<-vapply(tp,function(x)nrow(x$ageEnsemble[[1]])==length(x$paleoData_values[[1]]),TRUE)
  tp_good<-tp[good]
@@ -22,13 +23,18 @@ if(recompute){
 lon.range<-range(events$geo_longitude,na.rm=TRUE)+c(-5,5)
 lat.range<-range(events$geo_latitude,na.rm=TRUE)+c(-5,5)
 dist.grid<-actR::distanceGrid(events,lon.range=lon.range,lat.range=lat.range,grid.resolution=3)
+cache_key<-digest::digest(list(events=events,grid=dist.grid,method='robustNull',weights=TRUE,cutoff=1000,actR=as.character(packageVersion('actR'))),algo='sha256')
 spatial_window<-function(lo,hi){
  ev<-events[events$time_mid>=lo & events$time_mid<hi,]
  if(!nrow(ev))stop('No spatial events in window ',lo,'-',hi)
  cache<-file.path(OUT,'spatial',paste0('grid_',lo,'_',hi,'.rds'))
- if(file.exists(cache))g<-readRDS(cache) else {
+ if(file.exists(cache)){
+  cached<-readRDS(cache)
+  if(!is.list(cached)||!identical(cached$key,cache_key))stop('Spatial cache does not match current inputs/settings. Choose a new ACTR_RUN.')
+  g<-cached$value
+ } else {
   g<-purrr::map(dist.grid,actR::spatialSigTest,events=ev,agg.method='robustNull',use.weights=TRUE,distance.cutoff=1000)
-  saveRDS(g,cache)
+  saveRDS(list(key=cache_key,value=g),cache)
  }
  lapply(c('pvalPos','pvalNeg'),function(test)actR::plotSignificance(g,sigTestResults=ev,which.test=test,color.breaks=c(.01,.05,.1,.2),restrict.sites=TRUE,alpha.by.weight=TRUE,cutoff.distance=1000,x.lim=lon.range,y.lim=lat.range))
 }

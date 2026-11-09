@@ -1,11 +1,12 @@
 # Step 3: harmonization, percentage calculation and biomization.
 if(!exists('PUB_ROOT'))source('config.R')
 need(c('dplyr','tidyr'))
+preflight_outputs(c(vapply(PROCESS_IDS,function(id)record_path(3,id),''),file.path(OUT,'step3',paste0('missing_PFT_',PROCESS_IDS,'.csv')),file.path(OUT,'step3',paste0('age_group_audit_',PROCESS_IDS,'.csv'))))
 lookup<-readRDS(input_file(file.path(OUT,'step2/taxon_lookup.rds')))
 pft<-read.csv(file.path(ANC,'harm_names_all_forest2024.csv'),check.names=TRUE)
 stopifnot(!anyDuplicated(pft$real_names),identical(names(pft)[7:11],c('temp_trees','forest','savanna.steppe','desert','grass')))
 for(id in PROCESS_IDS){
- a<-readRDS(input_file(record_path(1,id)));x<-a$my_counts
+ a<-read_record(1,id);x<-a$my_counts
  x<-x[x$ecologicalgroup%in%POLLEN_GROUPS,];x$real_names<-lookup$real_names[match(x$variablename,lookup$variablename)]
  if(anyNA(x$real_names)||any(!nzchar(x$real_names))||any(!is.finite(x$value))||any(x$value<0))stop('Invalid/unmapped counts at ',id)
  # Keep historical age-based pooling, including Rusaka's 9100 BP group.

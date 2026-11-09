@@ -3,7 +3,11 @@ if(!exists('PUB_ROOT'))source('config.R')
 if(MODE!='recompute')stop('Step 4 computes new results. Set ACTR_MODE=recompute; saved figures do not need Step 4.')
 need(c('lipdR','geoChronR','actR','purrr','dplyr'))
 PART <- Sys.getenv('ACTR_STEP4_PART','both');stopifnot(PART%in%c('both','pca','shifts'))
-records<-lapply(PROCESS_IDS,function(id)readRDS(input_file(record_path(3,id))))
+targets<-file.path(OUT,'step4/forest_series_by_id.rds')
+if(PART%in%c('both','pca'))targets<-c(targets,file.path(OUT,'step4/pc_results_20k_500.RData'))
+if(PART%in%c('both','shifts'))targets<-c(targets,file.path(OUT,'step4/shifts_by_id.rds'),file.path(OUT,'step4/abrupt_frequency.csv'),file.path(OUT,'step4',paste0('detector_',PROCESS_IDS,'.rds')),file.path(OUT,'step4',paste0('detector_',PROCESS_IDS,'.csv')))
+preflight_outputs(targets)
+records<-lapply(PROCESS_IDS,function(id)read_record(3,id))
 
 # 1. Attach biomes at verified sample depths, then map ages by depth.
 D<-lapply(records,function(a){
@@ -12,7 +16,9 @@ D<-lapply(records,function(a){
  ll$paleoData[[1]]$measurementTable[[2]]<-tab;ll
 })
 FD<-purrr::map(D,geoChronR::mapAgeEnsembleToPaleoData,strict.search=TRUE,age.var='ageEnsemble',paleo.age.var=NULL,chron.depth.var='depth',paleo.depth.var='depth',paleo.meas.table.num=2)
-TS<-lipdR::extractTs(FD);TS.filtered2<-lipdR::filterTs(TS,'variableName == forest')
+per_record<-lapply(FD,function(x)lipdR::filterTs(lipdR::extractTs(list(x)),'variableName == forest'))
+if(any(lengths(per_record)!=1))stop('Expected one forest series per dataset; extraction is ambiguous')
+TS.filtered2<-lapply(per_record,function(x)x[[1]])
 if(length(TS.filtered2)!=length(records))stop('Expected exactly one forest series per record')
 for(i in seq_along(records)){
  # Use the verified depth crosswalk directly; do not trust row-count equality alone.
@@ -20,7 +26,7 @@ for(i in seq_along(records)){
  TS.filtered2[[i]]$paleoData_values<-matrix(records[[i]]$biomes$forest,ncol=1)
  TS.filtered2[[i]]$depth<-records[[i]]$depth
 }
-saveRDS(list(ids=PROCESS_IDS,TS=TS.filtered2),file.path(OUT,'step4/forest_series_by_id.rds'))
+write_new(list(ids=PROCESS_IDS,TS=TS.filtered2),file.path(OUT,'step4/forest_series_by_id.rds'))
 
 # 2. Covariance Monte Carlo PCA: original 500-year grid, 8 PCs, 1,000 realizations.
 if(PART%in%c('both','pca')){

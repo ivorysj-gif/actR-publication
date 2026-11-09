@@ -29,3 +29,25 @@ save_plot <- function(name,plot,width=8,height=5){
 }
 require_saved_classification <- function(){if(MODE!='saved')stop('Event categories were manually curated. Review fresh events and supply new classification tables before running category figures; see README.')}
 log_session <- function(name)capture.output(sessionInfo(),file=file.path(OUT,'logs',paste0(name,'_session.txt')))
+
+# Operational guards only: no analytical values or settings are changed.
+preflight_outputs <- function(paths){
+ existing<-paths[file.exists(paths)]
+ if(length(existing))stop('Outputs already exist; choose a new ACTR_RUN before computing: ',paste(existing,collapse=', '))
+}
+check_run_identity <- function(){
+ inputs<-list.files(ANC,recursive=TRUE,full.names=TRUE)
+ inputs<-inputs[!file.info(inputs)$isdir]
+ config<-list(mode=MODE,ids=PROCESS_IDS,local_step1=Sys.getenv('ACTR_LOCAL_STEP1',''),bacon=Sys.getenv('ACTR_RUN_BACON','false'),spatial_recompute=Sys.getenv('ACTR_SPATIAL_RECOMPUTE','false'),
+ settings=list(YEAR_RANGE,PCA_BIN,SHIFT_BIN,FIGURE_BIN,N_ENSEMBLES,N_PC,SHIFT_ENSEMBLES,NULL_SIMULATIONS,SHIFT_METHOD,SHIFT_PENALTY,MIN_SEGMENT,SEED,POLLEN_GROUPS,MIN_TAXON_MAX_PCT),
+ ancillary=unname(tools::md5sum(inputs)))
+ path<-file.path(OUT,'logs/run_configuration.rds')
+ if(file.exists(path)){
+  if(!identical(readRDS(path),config))stop('Run configuration/input tables differ from this existing run. Choose a new ACTR_RUN.')
+ }else saveRDS(config,path)
+}
+read_record <- function(stage,id){
+ a<-readRDS(input_file(record_path(stage,id)))
+ if(!identical(as.integer(a$id),as.integer(id)))stop('Record ID mismatch at stage ',stage,': expected ',id)
+ a
+}
